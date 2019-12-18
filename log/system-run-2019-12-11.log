@@ -1,0 +1,674 @@
+[32m[INFO] 2019-12-11 09:50:03.492703 - D:\PROJECTS\AutomationF\configs\data.jsonl[0m
+[32m[INFO] 2019-12-11 09:50:03.494703 - Êı¾İnameĞ´ÈëD:\PROJECTS\AutomationF\configs\data.jsonlÎÄ¼ş³É¹¦¡£[0m
+[32m[INFO] 2019-12-11 09:50:03.494703 - ËùÓĞÊı¾İĞ´ÈëÎÄ¼ş£ºD:\PROJECTS\AutomationF\configs\data.jsonlÍê±Ï[0m
+[32m[INFO] 2019-12-11 09:50:23.888870 - D:\PROJECTS\AutomationF\configs\data.jsonl[0m
+[32m[INFO] 2019-12-11 09:50:23.889870 - Êı¾İ{'platformName': 'Android', 'platformVersion': '7.0', 'deviceName': 'A5RNW18316011440', 'appPackage': 'com.tencent.mm', 'appActivity': '.ui.LauncherUI', 'automationName': 'Uiautomator2', 'unicodeKeyboard': True, 'resetKeyboard': True, 'noReset': True, 'chromeOptions': {'androidProcess': 'com.tencent.mm:tools'}}Ğ´ÈëD:\PROJECTS\AutomationF\configs\data.jsonlÎÄ¼ş³É¹¦¡£[0m
+[32m[INFO] 2019-12-11 09:50:23.890870 - Êı¾İ{'test_1_ip_api': {'url': 'http://httpbin.org/ip', 'assert': {'ResponseType': ['type', 'dict'], 'origin': ['type', 'str']}, 'method': 'get', 'params': '', 'desc': '²âÊÔhttpbinµÄip½Ó¿Ú·µ»ØÕı³£'}}Ğ´ÈëD:\PROJECTS\AutomationF\configs\data.jsonlÎÄ¼ş³É¹¦¡£[0m
+[32m[INFO] 2019-12-11 09:50:23.890870 - Êı¾İ{'name': 'dashuaihang'}Ğ´ÈëD:\PROJECTS\AutomationF\configs\data.jsonlÎÄ¼ş³É¹¦¡£[0m
+[32m[INFO] 2019-12-11 09:50:23.890870 - Êı¾İ{'platformName': 'Android', 'platformVersion': '7.0', 'deviceName': 'A5RNW18316011440', 'appPackage': 'com.tencent.mm', 'appActivity': '.ui.LauncherUI', 'automationName': 'Uiautomator2', 'unicodeKeyboard': True, 'resetKeyboard': True, 'noReset': True, 'chromeOptions': {'androidProcess': 'com.tencent.mm:tools'}}Ğ´ÈëD:\PROJECTS\AutomationF\configs\data.jsonlÎÄ¼ş³É¹¦¡£[0m
+[32m[INFO] 2019-12-11 09:50:23.890870 - Êı¾İ[1, 2, 3, 4, 5, 6]Ğ´ÈëD:\PROJECTS\AutomationF\configs\data.jsonlÎÄ¼ş³É¹¦¡£[0m
+[32m[INFO] 2019-12-11 09:50:23.890870 - Êı¾İÌìĞĞ½¡¡£¾ı×ÓÒÔ×ÔÇ¿²»Ï¢Ğ´ÈëD:\PROJECTS\AutomationF\configs\data.jsonlÎÄ¼ş³É¹¦¡£[0m
+[32m[INFO] 2019-12-11 09:50:23.890870 - Êı¾İ(1, 3, 4, 433, 53)Ğ´ÈëD:\PROJECTS\AutomationF\configs\data.jsonlÎÄ¼ş³É¹¦¡£[0m
+[32m[INFO] 2019-12-11 09:50:23.890870 - Êı¾İ{'str': 'Hello World!', 'int': 110, 'float': 3.141, 'boolean': True, 'time': '2016-09-22 03:43:30', 'date': '2016-09-22'}Ğ´ÈëD:\PROJECTS\AutomationF\configs\data.jsonlÎÄ¼ş³É¹¦¡£[0m
+[32m[INFO] 2019-12-11 09:50:23.891870 - ËùÓĞÊı¾İĞ´ÈëÎÄ¼ş£ºD:\PROJECTS\AutomationF\configs\data.jsonlÍê±Ï[0m
+[32m[INFO] 2019-12-11 10:22:06.679703 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 10:22:06.679703 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 10:22:06.680703 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-11 10:22:08.249793 - ¡¾ÓÃÀı£ºget_case_01£¬ ½Ó¿Ú£º'https://httpbin.org/get'¡¿-- ²âÊÔ½á¹ûÈçÏÂ£º
+{
+    "args":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get"
+}[0m
+[32m[INFO] 2019-12-11 10:22:08.250793 - ÓÃÀı£ºget_case_01, ²âÊÔÍê±Ï¡£[0m
+[32m[INFO] 2019-12-11 10:22:09.243850 - ¡¾ÓÃÀı£ºpost_case_01£¬ ½Ó¿Ú£º'https://httpbin.org/post'¡¿-- ²âÊÔ½á¹ûÈçÏÂ£º
+{
+    "args":{},
+    "data":"{\"\\u5bfc\\u6f14/\\u6f14\\u5458/\\u65f6\\u95f4/...\": \"\\u5bfc\\u6f14: \\u5f7c\\u5f97\\u00b7\\u6770\\u514b\\u900a Peter Jackson\\u00a0\\u00a0\\u00a0\\u4e3b\\u6f14: \\u4f0a\\u5229\\u4e9a\\u00b7\\u4f0d\\u5fb7 Elijah Wood / \\u897f\\u6069...\\u00a0/\\u00a0\\u7f8e\\u56fd \\u65b0\\u897f\\u5170\\u00a0/\\u00a0\\u5267\\u60c5 \\u52a8\\u4f5c \\u5947\\u5e7b \\u5192\\u9669\", \"\\u5f71\\u8bc4\": \"9.0 328420\\u4eba\\u8bc4\\u4ef7\", \"\\u7535\\u5f71\\u540d\\u79f0\": \"\\u6307\\u73af\\u738b2\\uff1a\\u53cc\\u5854\\u5947\\u5175\", \"\\u7535\\u5f71\\u5c01\\u9762\": \"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg\", \"\\u7535\\u5f71\\u603b\\u7ed3\": \"\\u627f\\u524d\\u542f\\u540e\\u7684\\u53f2\\u8bd7\\u7bc7\\u7ae0\", \"\\u7535\\u5f71\\u8be6\\u60c5\\u9875\": \"https://movie.douban.com/subject/1291572/\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"719",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ: ±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ: ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+        "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+        "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+        "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+        "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+        "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-11 10:22:09.243850 - ÓÃÀı£ºpost_case_01, ²âÊÔÍê±Ï¡£[0m
+[32m[INFO] 2019-12-11 15:07:59.664798 - D:\PROJECTS\AutomationFconfig.ini[0m
+[32m[INFO] 2019-12-11 15:07:59.665798 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[31m[ERROR] 2019-12-11 15:07:59.665798 - ÎÄ¼ş²Ù×÷Ê§°Ü: 
+ <class 'KeyError'>, 'api_path', <traceback object at 0x00000000028DFF88>[0m
+[32m[INFO] 2019-12-11 15:08:11.828493 - D:\PROJECTS\AutomationFconfig.ini[0m
+[32m[INFO] 2019-12-11 15:08:11.829494 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[31m[ERROR] 2019-12-11 15:08:11.829494 - ÎÄ¼ş²Ù×÷Ê§°Ü: 
+ <class 'KeyError'>, 'api_path', <traceback object at 0x0000000002291E48>[0m
+[32m[INFO] 2019-12-11 15:09:35.393273 - D:\PROJECTS\AutomationFconfig.ini[0m
+[32m[INFO] 2019-12-11 15:09:35.394273 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[31m[ERROR] 2019-12-11 15:09:35.394273 - ÎÄ¼ş²Ù×÷Ê§°Ü: 
+ <class 'KeyError'>, 'api_path', <traceback object at 0x00000000028B1E08>[0m
+[32m[INFO] 2019-12-11 15:11:08.533600 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 15:11:08.535601 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 15:11:20.757300 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 15:11:20.759300 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 15:45:18.069827 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 15:45:18.071827 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 15:45:18.071827 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-11 15:45:18.075828 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 15:45:18.075828 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 15:45:18.076828 - D:\PROJECTS\AutomationF\configs\get_cases.py[0m
+[32m[INFO] 2019-12-11 15:45:18.076828 - yamlÎÄ¼ş¶ÁÈ¡³É¹¦¡£[0m
+[31m[ERROR] 2019-12-11 15:45:18.084828 - ÎÄ¼ş²Ù×÷Ê§°Ü: 
+ <class 'ruamel.yaml.scanner.ScannerError'>, mapping values are not allowed here
+  in "<unicode string>", line 6, column 57:
+     ... ="\\configs\\config.ini") as c_f:
+                                         ^ (line: 6), <traceback object at 0x0000000004CC5488>[0m
+[32m[INFO] 2019-12-11 15:45:31.356587 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 15:45:31.357587 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 15:45:31.357587 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-11 15:45:31.362587 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 15:45:31.363588 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 15:45:31.364588 - D:\PROJECTS\AutomationF\configs\get_cases.py[0m
+[32m[INFO] 2019-12-11 15:45:31.364588 - yamlÎÄ¼ş¶ÁÈ¡³É¹¦¡£[0m
+[31m[ERROR] 2019-12-11 15:45:31.372588 - ÎÄ¼ş²Ù×÷Ê§°Ü: 
+ <class 'ruamel.yaml.scanner.ScannerError'>, mapping values are not allowed here
+  in "<unicode string>", line 6, column 57:
+     ... ="\\configs\\config.ini") as c_f:
+                                         ^ (line: 6), <traceback object at 0x0000000004CD5588>[0m
+[32m[INFO] 2019-12-11 15:45:55.824987 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 15:45:55.825987 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 15:45:55.825987 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-11 15:45:55.935993 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 15:45:55.936993 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 15:45:55.937993 - D:\PROJECTS\AutomationF\configs\get_cases.py[0m
+[32m[INFO] 2019-12-11 15:45:55.937993 - yamlÎÄ¼ş¶ÁÈ¡³É¹¦¡£[0m
+[31m[ERROR] 2019-12-11 15:45:55.945994 - ÎÄ¼ş²Ù×÷Ê§°Ü: 
+ <class 'ruamel.yaml.scanner.ScannerError'>, mapping values are not allowed here
+  in "<unicode string>", line 6, column 57:
+     ... ="\\configs\\config.ini") as c_f:
+                                         ^ (line: 6), <traceback object at 0x0000000003C1F8C8>[0m
+[32m[INFO] 2019-12-11 16:27:21.639167 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 16:27:21.640167 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 16:27:21.640167 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-11 16:27:21.644167 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 16:27:21.644167 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 16:31:10.482256 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 16:31:10.483256 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 16:31:34.965657 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 16:31:34.966657 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 16:32:00.415112 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 16:32:00.416112 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 16:32:32.426943 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 16:32:32.427943 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 16:33:50.761424 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 16:33:50.762424 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 16:34:22.070214 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 16:34:22.071214 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 16:34:51.031871 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 16:34:51.032871 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 16:38:23.511024 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 16:38:23.512024 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 16:52:46.808402 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 16:52:46.809402 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 17:02:10.881665 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 17:02:10.882665 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 17:08:23.315967 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 17:08:23.317967 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 17:08:44.110156 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 17:08:44.111156 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 17:08:54.736764 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 17:08:54.736764 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 17:10:05.867833 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 17:10:05.868833 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 17:10:45.653108 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 17:10:45.654108 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 17:19:46.605049 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 17:19:46.606049 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 17:28:04.877548 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 17:28:04.878548 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 17:28:35.901323 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 17:28:35.902323 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 17:29:09.985272 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 17:29:09.987272 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 17:29:53.332752 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 17:29:53.334752 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 17:30:28.955789 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 17:30:28.956789 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 17:53:19.614186 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 17:53:19.615186 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 18:05:42.674687 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 18:05:42.676687 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 18:06:06.951076 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 18:06:06.953076 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 18:08:21.468770 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 18:08:21.469770 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 18:08:21.469770 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-11 18:08:21.471770 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 18:08:21.472770 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 18:08:21.488771 - ÓÃÀı-{'Mothed': 'get', 'Document': 'get½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı', 'Timeout': 10, 'Api_path': '/get', 'Headers': {'a': '11111', 'b': '22222'}, 'Params': {'name': 'hang', 'age': 2}, 'Assert': {'ResponseType': ['type', 'dict'], 'origin': ['type', 'str']}}ÃèÊö£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-11 18:08:21.554774 - ÓÃÀı-{'Mothed': 'get', 'Document': 'get½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı', 'Timeout': 10, 'Api_path': '/get', 'Headers': {'a': '11111', 'b': '22222'}, 'Params': {'name': 'hang11111111111111111111111', 'age': 2}, 'Assert': {'ResponseType': ['type', 'dict'], 'origin': ['type', 'str']}}ÃèÊö£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-11 18:11:37.521983 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 18:11:37.521983 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 18:11:37.522983 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-11 18:11:37.620989 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 18:11:37.620989 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 18:11:37.983010 - ÓÃÀı-{'Mothed': 'get', 'Document': 'get½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı', 'Timeout': 10, 'Api_path': '/get', 'Headers': {'a': '11111', 'b': '22222'}, 'Params': {'name': 'hang', 'age': 2}, 'Assert': {'ResponseType': ['type', 'dict'], 'origin': ['type', 'str']}}ÃèÊö£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-11 18:11:37.983010 - ÓÃÀı-{'Mothed': 'get', 'Document': 'get½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı', 'Timeout': 10, 'Api_path': '/get', 'Headers': {'a': '11111', 'b': '22222'}, 'Params': {'name': 'hang', 'age': 2}, 'Assert': {'ResponseType': ['type', 'dict'], 'origin': ['type', 'str']}}ÃèÊö£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-11 18:11:38.044013 - ÓÃÀı-{'Mothed': 'get', 'Document': 'get½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı', 'Timeout': 10, 'Api_path': '/get', 'Headers': {'a': '11111', 'b': '22222'}, 'Params': {'name': 'hang11111111111111111111111', 'age': 2}, 'Assert': {'ResponseType': ['type', 'dict'], 'origin': ['type', 'str']}}ÃèÊö£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-11 18:11:38.044013 - ÓÃÀı-{'Mothed': 'get', 'Document': 'get½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı', 'Timeout': 10, 'Api_path': '/get', 'Headers': {'a': '11111', 'b': '22222'}, 'Params': {'name': 'hang11111111111111111111111', 'age': 2}, 'Assert': {'ResponseType': ['type', 'dict'], 'origin': ['type', 'str']}}ÃèÊö£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-11 18:15:10.243150 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 18:15:10.243150 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 18:15:10.243150 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-11 18:15:10.245150 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 18:15:10.246150 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 18:15:10.254151 - ÓÃÀı-api_get_01ÃèÊö£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-11 18:15:10.320154 - ÓÃÀı-api_get_02ÃèÊö£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-11 18:16:50.232869 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 18:16:50.232869 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 18:16:50.233869 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-11 18:16:50.331875 - D:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 18:16:50.332875 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 22:26:35.281510 - C:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 22:26:35.283504 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 22:26:35.283504 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-11 22:26:35.283504 - ¡¾ÓÃÀıÃû³Æ¡¿£ºget_case_01[0m
+[32m[INFO] 2019-12-11 22:26:35.283504 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-11 22:26:35.284502 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-11 22:26:35.284502 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+None[0m
+[32m[INFO] 2019-12-11 22:26:40.482708 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.19.1"
+    },
+    "origin":"114.88.137.136, 114.88.137.136",
+    "url":"https://httpbin.org/get"
+}[0m
+[32m[INFO] 2019-12-11 22:26:40.482708 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºget_case_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-11 22:26:40.483607 - ¡¾ÓÃÀıÃû³Æ¡¿£ºpost_case_01[0m
+[32m[INFO] 2019-12-11 22:26:40.483607 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-11 22:26:40.483607 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-11 22:26:40.483607 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ: ±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ: ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+    "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+    "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+    "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+    "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+    "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+}[0m
+[32m[INFO] 2019-12-11 22:26:48.755551 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"\\u5bfc\\u6f14/\\u6f14\\u5458/\\u65f6\\u95f4/...\": \"\\u5bfc\\u6f14: \\u5f7c\\u5f97\\u00b7\\u6770\\u514b\\u900a Peter Jackson\\u00a0\\u00a0\\u00a0\\u4e3b\\u6f14: \\u4f0a\\u5229\\u4e9a\\u00b7\\u4f0d\\u5fb7 Elijah Wood / \\u897f\\u6069...\\u00a0/\\u00a0\\u7f8e\\u56fd \\u65b0\\u897f\\u5170\\u00a0/\\u00a0\\u5267\\u60c5 \\u52a8\\u4f5c \\u5947\\u5e7b \\u5192\\u9669\", \"\\u5f71\\u8bc4\": \"9.0 328420\\u4eba\\u8bc4\\u4ef7\", \"\\u7535\\u5f71\\u540d\\u79f0\": \"\\u6307\\u73af\\u738b2\\uff1a\\u53cc\\u5854\\u5947\\u5175\", \"\\u7535\\u5f71\\u5c01\\u9762\": \"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg\", \"\\u7535\\u5f71\\u603b\\u7ed3\": \"\\u627f\\u524d\\u542f\\u540e\\u7684\\u53f2\\u8bd7\\u7bc7\\u7ae0\", \"\\u7535\\u5f71\\u8be6\\u60c5\\u9875\": \"https://movie.douban.com/subject/1291572/\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"719",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.19.1"
+    },
+    "json":{
+        "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ: ±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ: ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+        "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+        "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+        "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+        "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+        "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+    },
+    "origin":"114.88.137.136, 114.88.137.136",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-11 22:26:48.755551 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºpost_case_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-11 22:29:04.692369 - C:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 22:29:04.694367 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 22:29:04.694367 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-11 22:29:06.402797 - C:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 22:29:06.403798 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 22:29:34.312203 - C:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 22:29:34.313522 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 22:29:34.313522 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-11 22:29:35.021308 - C:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 22:29:35.024300 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 22:29:36.842440 - ÓÃÀı-api_get_01ÃèÊö£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-11 22:29:36.842440 - ÓÃÀı-api_get_01ÃèÊö£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-11 22:29:36.843438 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_01[0m
+[32m[INFO] 2019-12-11 22:29:36.843983 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-11 22:29:36.843983 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-11 22:29:36.844435 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang"
+}[0m
+[32m[INFO] 2019-12-11 22:29:41.261630 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.19.1"
+    },
+    "origin":"114.88.137.136, 114.88.137.136",
+    "url":"https://httpbin.org/get?name=hang&age=2"
+}[0m
+[32m[INFO] 2019-12-11 22:29:41.261630 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-11 22:29:41.261630 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-11 22:29:41.266617 - ÓÃÀı-api_get_02ÃèÊö£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-11 22:29:41.266617 - ÓÃÀı-api_get_02ÃèÊö£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-11 22:29:41.266617 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_02[0m
+[32m[INFO] 2019-12-11 22:29:41.267615 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-11 22:29:41.267615 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-11 22:29:41.267615 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang11111111111111111111111"
+}[0m
+[32m[INFO] 2019-12-11 22:29:46.169515 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang11111111111111111111111"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.19.1"
+    },
+    "origin":"114.88.137.136, 114.88.137.136",
+    "url":"https://httpbin.org/get?name=hang11111111111111111111111&age=2"
+}[0m
+[32m[INFO] 2019-12-11 22:29:46.169515 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-11 22:29:46.169515 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-11 22:31:08.316060 - C:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 22:31:08.317982 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 22:31:08.317982 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-11 22:31:09.022070 - C:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 22:31:09.023068 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 22:31:09.469903 - ¡¾ÓÃÀıapi_get_01ÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-11 22:31:09.469903 - ¡¾ÓÃÀıapi_get_01ÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-11 22:31:09.470904 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_01[0m
+[32m[INFO] 2019-12-11 22:31:09.470904 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-11 22:31:09.470904 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-11 22:31:09.471902 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang"
+}[0m
+[32m[INFO] 2019-12-11 22:31:22.154970 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.19.1"
+    },
+    "origin":"114.88.137.136, 114.88.137.136",
+    "url":"https://httpbin.org/get?name=hang&age=2"
+}[0m
+[32m[INFO] 2019-12-11 22:31:22.155967 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-11 22:31:22.155967 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-11 22:31:22.158069 - ¡¾ÓÃÀıapi_get_02ÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-11 22:31:22.158069 - ¡¾ÓÃÀıapi_get_02ÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-11 22:31:22.158960 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_02[0m
+[32m[INFO] 2019-12-11 22:31:22.158960 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-11 22:31:22.158960 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-11 22:31:22.158960 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang11111111111111111111111"
+}[0m
+[32m[INFO] 2019-12-11 22:31:27.030941 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang11111111111111111111111"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.19.1"
+    },
+    "origin":"114.88.137.136, 114.88.137.136",
+    "url":"https://httpbin.org/get?name=hang11111111111111111111111&age=2"
+}[0m
+[32m[INFO] 2019-12-11 22:31:27.031939 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-11 22:31:27.031939 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-11 22:34:30.130086 - C:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 22:34:30.131132 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 22:34:30.132080 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-11 22:34:30.953850 - C:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 22:34:30.954848 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 22:34:31.546268 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_01[0m
+[32m[INFO] 2019-12-11 22:34:31.546268 - ¡¾ÓÃÀıÃèÊö¡¿£ºNone[0m
+[32m[INFO] 2019-12-11 22:34:31.546268 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-11 22:34:31.546268 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-11 22:34:31.547265 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang"
+}[0m
+[32m[INFO] 2019-12-11 22:34:42.233704 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.19.1"
+    },
+    "origin":"114.88.137.136, 114.88.137.136",
+    "url":"https://httpbin.org/get?name=hang&age=2"
+}[0m
+[32m[INFO] 2019-12-11 22:34:42.233704 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-11 22:34:42.233704 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-11 22:34:42.239687 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_02[0m
+[32m[INFO] 2019-12-11 22:34:42.239687 - ¡¾ÓÃÀıÃèÊö¡¿£ºNone[0m
+[32m[INFO] 2019-12-11 22:34:42.239687 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-11 22:34:42.240688 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-11 22:34:42.241682 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang11111111111111111111111"
+}[0m
+[32m[INFO] 2019-12-11 22:34:47.120683 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang11111111111111111111111"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.19.1"
+    },
+    "origin":"114.88.137.136, 114.88.137.136",
+    "url":"https://httpbin.org/get?name=hang11111111111111111111111&age=2"
+}[0m
+[32m[INFO] 2019-12-11 22:34:47.120683 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-11 22:34:47.120683 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-11 22:36:10.589713 - C:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 22:36:10.590710 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 22:36:10.590710 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-11 22:36:11.553141 - C:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 22:36:11.554137 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 22:36:12.152539 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_01[0m
+[32m[INFO] 2019-12-11 22:36:12.152539 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-11 22:36:12.152539 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-11 22:36:12.152539 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-11 22:36:12.152539 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang"
+}[0m
+[32m[INFO] 2019-12-11 22:36:20.104755 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.19.1"
+    },
+    "origin":"114.88.137.136, 114.88.137.136",
+    "url":"https://httpbin.org/get?name=hang&age=2"
+}[0m
+[32m[INFO] 2019-12-11 22:36:20.104755 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-11 22:36:20.104755 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-11 22:36:20.110779 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_02[0m
+[32m[INFO] 2019-12-11 22:36:20.110779 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-11 22:36:20.110779 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-11 22:36:20.111635 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-11 22:36:20.111635 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang11111111111111111111111"
+}[0m
+[32m[INFO] 2019-12-11 22:36:25.940020 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang11111111111111111111111"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.19.1"
+    },
+    "origin":"114.88.137.136, 114.88.137.136",
+    "url":"https://httpbin.org/get?name=hang11111111111111111111111&age=2"
+}[0m
+[32m[INFO] 2019-12-11 22:36:25.940020 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-11 22:36:25.940020 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-11 22:41:31.907759 - C:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 22:41:31.909699 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 22:41:31.909699 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-11 22:41:32.609822 - C:\PROJECTS\AutomationF\configs\config.ini[0m
+[32m[INFO] 2019-12-11 22:41:32.609822 - iniÎÄ¼ş¶ÁÈ¡³É¹¦[0m
+[32m[INFO] 2019-12-11 22:41:33.215206 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_01[0m
+[32m[INFO] 2019-12-11 22:41:33.215206 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-11 22:41:33.215206 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-11 22:41:33.215206 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-11 22:41:33.215206 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang"
+}[0m
+[32m[INFO] 2019-12-11 22:41:38.077184 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.19.1"
+    },
+    "origin":"114.88.137.136, 114.88.137.136",
+    "url":"https://httpbin.org/get?name=hang&age=2"
+}[0m
+[32m[INFO] 2019-12-11 22:41:38.077184 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-11 22:41:38.077184 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-11 22:41:38.081173 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_02[0m
+[32m[INFO] 2019-12-11 22:41:38.082243 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-11 22:41:38.082243 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-11 22:41:38.082243 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-11 22:41:38.083167 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang11111111111111111111111"
+}[0m
+[32m[INFO] 2019-12-11 22:41:41.949830 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang11111111111111111111111"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.19.1"
+    },
+    "origin":"114.88.137.136, 114.88.137.136",
+    "url":"https://httpbin.org/get?name=hang11111111111111111111111&age=2"
+}[0m
+[32m[INFO] 2019-12-11 22:41:41.949830 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-11 22:41:41.949830 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-11 22:48:15.043291 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-11 22:48:16.240093 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_01[0m
+[32m[INFO] 2019-12-11 22:48:16.240093 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-11 22:48:16.240093 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-11 22:48:16.241091 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-11 22:48:16.241091 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang"
+}[0m
+[32m[INFO] 2019-12-11 22:48:20.687250 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.19.1"
+    },
+    "origin":"114.88.137.136, 114.88.137.136",
+    "url":"https://httpbin.org/get?name=hang&age=2"
+}[0m
+[32m[INFO] 2019-12-11 22:48:20.687250 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-11 22:48:20.687250 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-11 22:48:20.692234 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_02[0m
+[32m[INFO] 2019-12-11 22:48:20.692234 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-11 22:48:20.692234 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-11 22:48:20.692234 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-11 22:48:20.692234 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang11111111111111111111111"
+}[0m
+[32m[INFO] 2019-12-11 22:48:26.329212 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang11111111111111111111111"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.19.1"
+    },
+    "origin":"114.88.137.136, 114.88.137.136",
+    "url":"https://httpbin.org/get?name=hang11111111111111111111111&age=2"
+}[0m
+[32m[INFO] 2019-12-11 22:48:26.329212 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-11 22:48:26.329212 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m

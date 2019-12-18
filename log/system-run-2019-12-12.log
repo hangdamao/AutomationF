@@ -1,0 +1,3364 @@
+[32m[INFO] 2019-12-12 09:50:05.378608 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-12 09:50:05.379608 - ¡¾ÓÃÀıÃû³Æ¡¿£ºget_case_01[0m
+[32m[INFO] 2019-12-12 09:50:05.379608 - ¡¾ÓÃÀıÃèÊö¡¿£ºNone[0m
+[32m[INFO] 2019-12-12 09:50:05.379608 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 09:50:05.379608 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 09:50:05.379608 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+None[0m
+[32m[INFO] 2019-12-12 09:50:06.791689 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get"
+}[0m
+[32m[INFO] 2019-12-12 09:50:06.791689 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºget_case_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 09:50:06.791689 - ¡¾ÓÃÀıÃû³Æ¡¿£ºpost_case_01[0m
+[32m[INFO] 2019-12-12 09:50:06.791689 - ¡¾ÓÃÀıÃèÊö¡¿£ºNone[0m
+[32m[INFO] 2019-12-12 09:50:06.791689 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 09:50:06.791689 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 09:50:06.791689 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ: ±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ: ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+    "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+    "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+    "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+    "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+    "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+}[0m
+[32m[INFO] 2019-12-12 09:50:07.751744 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"\\u5bfc\\u6f14/\\u6f14\\u5458/\\u65f6\\u95f4/...\": \"\\u5bfc\\u6f14: \\u5f7c\\u5f97\\u00b7\\u6770\\u514b\\u900a Peter Jackson\\u00a0\\u00a0\\u00a0\\u4e3b\\u6f14: \\u4f0a\\u5229\\u4e9a\\u00b7\\u4f0d\\u5fb7 Elijah Wood / \\u897f\\u6069...\\u00a0/\\u00a0\\u7f8e\\u56fd \\u65b0\\u897f\\u5170\\u00a0/\\u00a0\\u5267\\u60c5 \\u52a8\\u4f5c \\u5947\\u5e7b \\u5192\\u9669\", \"\\u5f71\\u8bc4\": \"9.0 328420\\u4eba\\u8bc4\\u4ef7\", \"\\u7535\\u5f71\\u540d\\u79f0\": \"\\u6307\\u73af\\u738b2\\uff1a\\u53cc\\u5854\\u5947\\u5175\", \"\\u7535\\u5f71\\u5c01\\u9762\": \"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg\", \"\\u7535\\u5f71\\u603b\\u7ed3\": \"\\u627f\\u524d\\u542f\\u540e\\u7684\\u53f2\\u8bd7\\u7bc7\\u7ae0\", \"\\u7535\\u5f71\\u8be6\\u60c5\\u9875\": \"https://movie.douban.com/subject/1291572/\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"719",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ: ±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ: ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+        "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+        "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+        "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+        "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+        "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 09:50:07.752744 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºpost_case_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 10:02:33.417394 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-12 10:02:33.884420 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_01[0m
+[32m[INFO] 2019-12-12 10:02:33.884420 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 10:02:33.884420 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 10:02:33.884420 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 10:02:33.885420 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang"
+}[0m
+[32m[INFO] 2019-12-12 10:02:35.443510 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang&age=2"
+}[0m
+[31m[ERROR] 2019-12-12 10:02:35.444510 - httpÇëÇóÒì³£: 
+ <class 'AssertionError'>, assert <class 'dict'> is 'dict'
+ +  where <class 'dict'> = type({'args': {'age': '2', 'name': 'hang'}, 'headers': {'A': '11111', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'B': '22222', ...}, 'origin': '140.207.165.210, 140.207.165.210', 'url': 'https://httpbin.org/get?name=hang&age=2'})
+ +  and   'dict' = <built-in method get of dict object at 0x0000000003827F30>('ResponseType')
+ +    where <built-in method get of dict object at 0x0000000003827F30> = {'ResponseType': 'dict', 'fields': 'origin'}.get, <traceback object at 0x0000000004C66DC8>[0m
+[32m[INFO] 2019-12-12 10:02:35.446510 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_02[0m
+[32m[INFO] 2019-12-12 10:02:35.446510 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 10:02:35.446510 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 10:02:35.446510 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 10:02:35.446510 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang11111111111111111111111"
+}[0m
+[32m[INFO] 2019-12-12 10:02:36.411565 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang11111111111111111111111"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang11111111111111111111111&age=2"
+}[0m
+[31m[ERROR] 2019-12-12 10:02:36.412565 - httpÇëÇóÒì³£: 
+ <class 'AssertionError'>, assert <class 'dict'> is ['type', 'dict']
+ +  where <class 'dict'> = type({'args': {'age': '2', 'name': 'hang11111111111111111111111'}, 'headers': {'A': '11111', 'Accept': '*/*', 'Accept-Encod... 'origin': '140.207.165.210, 140.207.165.210', 'url': 'https://httpbin.org/get?name=hang11111111111111111111111&age=2'})
+ +  and   ['type', 'dict'] = <built-in method get of dict object at 0x0000000003C08828>('ResponseType')
+ +    where <built-in method get of dict object at 0x0000000003C08828> = {'ResponseType': ['type', 'dict'], 'origin': ['type', 'str']}.get, <traceback object at 0x0000000004C86048>[0m
+[32m[INFO] 2019-12-12 10:03:29.861622 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-12 10:03:30.272646 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_01[0m
+[32m[INFO] 2019-12-12 10:03:30.272646 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 10:03:30.272646 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 10:03:30.272646 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 10:03:30.272646 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang"
+}[0m
+[32m[INFO] 2019-12-12 10:03:31.844736 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang&age=2"
+}[0m
+[31m[ERROR] 2019-12-12 10:03:31.844736 - httpÇëÇóÒì³£: 
+ <class 'AssertionError'>, assert <class 'dict'> is "<class 'dict'>"
+ +  where <class 'dict'> = type({'args': {'age': '2', 'name': 'hang'}, 'headers': {'A': '11111', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'B': '22222', ...}, 'origin': '140.207.165.210, 140.207.165.210', 'url': 'https://httpbin.org/get?name=hang&age=2'})
+ +  and   "<class 'dict'>" = <built-in method get of dict object at 0x0000000003827F30>('ResponseType')
+ +    where <built-in method get of dict object at 0x0000000003827F30> = {'ResponseType': "<class 'dict'>", 'fields': 'origin'}.get, <traceback object at 0x0000000004C874C8>[0m
+[32m[INFO] 2019-12-12 10:03:31.846736 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_02[0m
+[32m[INFO] 2019-12-12 10:03:31.846736 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 10:03:31.846736 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 10:03:31.846736 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 10:03:31.846736 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang11111111111111111111111"
+}[0m
+[32m[INFO] 2019-12-12 10:03:32.814791 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang11111111111111111111111"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang11111111111111111111111&age=2"
+}[0m
+[31m[ERROR] 2019-12-12 10:03:32.814791 - httpÇëÇóÒì³£: 
+ <class 'AssertionError'>, assert <class 'dict'> is ['type', 'dict']
+ +  where <class 'dict'> = type({'args': {'age': '2', 'name': 'hang11111111111111111111111'}, 'headers': {'A': '11111', 'Accept': '*/*', 'Accept-Encod... 'origin': '140.207.165.210, 140.207.165.210', 'url': 'https://httpbin.org/get?name=hang11111111111111111111111&age=2'})
+ +  and   ['type', 'dict'] = <built-in method get of dict object at 0x0000000003C08870>('ResponseType')
+ +    where <built-in method get of dict object at 0x0000000003C08870> = {'ResponseType': ['type', 'dict'], 'origin': ['type', 'str']}.get, <traceback object at 0x0000000004C9B108>[0m
+[32m[INFO] 2019-12-12 10:05:28.150388 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-12 10:05:28.559411 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_01[0m
+[32m[INFO] 2019-12-12 10:05:28.559411 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 10:05:28.559411 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 10:05:28.559411 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 10:05:28.559411 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang"
+}[0m
+[32m[INFO] 2019-12-12 10:05:30.194505 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang&age=2"
+}[0m
+[31m[ERROR] 2019-12-12 10:05:30.194505 - httpÇëÇóÒì³£: 
+ <class 'AssertionError'>, assert <class 'dict'> is "<class 'dict'>"
+ +  where <class 'dict'> = type({'args': {'age': '2', 'name': 'hang'}, 'headers': {'A': '11111', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'B': '22222', ...}, 'origin': '140.207.165.210, 140.207.165.210', 'url': 'https://httpbin.org/get?name=hang&age=2'})
+ +  and   "<class 'dict'>" = <built-in method get of dict object at 0x0000000003827F30>('ResponseType')
+ +    where <built-in method get of dict object at 0x0000000003827F30> = {'ResponseType': "<class 'dict'>", 'fields': 'origin'}.get, <traceback object at 0x0000000004C898C8>[0m
+[32m[INFO] 2019-12-12 10:05:30.196505 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_02[0m
+[32m[INFO] 2019-12-12 10:05:30.196505 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 10:05:30.196505 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 10:05:30.197505 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 10:05:30.197505 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang11111111111111111111111"
+}[0m
+[32m[INFO] 2019-12-12 10:05:31.166560 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang11111111111111111111111"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang11111111111111111111111&age=2"
+}[0m
+[31m[ERROR] 2019-12-12 10:05:31.166560 - httpÇëÇóÒì³£: 
+ <class 'AssertionError'>, assert <class 'dict'> is "<class 'dict'>"
+ +  where <class 'dict'> = type({'args': {'age': '2', 'name': 'hang11111111111111111111111'}, 'headers': {'A': '11111', 'Accept': '*/*', 'Accept-Encod... 'origin': '140.207.165.210, 140.207.165.210', 'url': 'https://httpbin.org/get?name=hang11111111111111111111111&age=2'})
+ +  and   "<class 'dict'>" = <built-in method get of dict object at 0x0000000003C07990>('ResponseType')
+ +    where <built-in method get of dict object at 0x0000000003C07990> = {'ResponseType': "<class 'dict'>", 'fields': 'origin'}.get, <traceback object at 0x0000000004C9A048>[0m
+[32m[INFO] 2019-12-12 10:07:06.950039 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-12 10:07:07.399065 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_01[0m
+[32m[INFO] 2019-12-12 10:07:07.399065 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 10:07:07.399065 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 10:07:07.399065 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 10:07:07.399065 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang"
+}[0m
+[32m[INFO] 2019-12-12 10:07:08.912151 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang&age=2"
+}[0m
+[31m[ERROR] 2019-12-12 10:07:08.913151 - httpÇëÇóÒì³£: 
+ <class 'AssertionError'>, assert <class 'dict'> == 'dict'
+ +  where <class 'dict'> = type({'args': {'age': '2', 'name': 'hang'}, 'headers': {'A': '11111', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'B': '22222', ...}, 'origin': '140.207.165.210, 140.207.165.210', 'url': 'https://httpbin.org/get?name=hang&age=2'})
+ +  and   'dict' = <built-in method get of dict object at 0x0000000003827F30>('ResponseType')
+ +    where <built-in method get of dict object at 0x0000000003827F30> = {'ResponseType': 'dict', 'fields': 'origin'}.get, <traceback object at 0x0000000004C96488>[0m
+[32m[INFO] 2019-12-12 10:07:08.915151 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_02[0m
+[32m[INFO] 2019-12-12 10:07:08.915151 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 10:07:08.915151 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 10:07:08.915151 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 10:07:08.915151 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang11111111111111111111111"
+}[0m
+[32m[INFO] 2019-12-12 10:07:09.881207 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang11111111111111111111111"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang11111111111111111111111&age=2"
+}[0m
+[31m[ERROR] 2019-12-12 10:07:09.882207 - httpÇëÇóÒì³£: 
+ <class 'AssertionError'>, assert <class 'dict'> == "<class 'dict'>"
+ +  where <class 'dict'> = type({'args': {'age': '2', 'name': 'hang11111111111111111111111'}, 'headers': {'A': '11111', 'Accept': '*/*', 'Accept-Encod... 'origin': '140.207.165.210, 140.207.165.210', 'url': 'https://httpbin.org/get?name=hang11111111111111111111111&age=2'})
+ +  and   "<class 'dict'>" = <built-in method get of dict object at 0x0000000003C078B8>('ResponseType')
+ +    where <built-in method get of dict object at 0x0000000003C078B8> = {'ResponseType': "<class 'dict'>", 'fields': 'origin'}.get, <traceback object at 0x0000000004C8DAC8>[0m
+[32m[INFO] 2019-12-12 10:11:07.159778 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-12 10:11:07.612804 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_01[0m
+[32m[INFO] 2019-12-12 10:11:07.612804 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 10:11:07.612804 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 10:11:07.612804 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 10:11:07.612804 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang"
+}[0m
+[32m[INFO] 2019-12-12 10:11:09.105889 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang&age=2"
+}[0m
+[32m[INFO] 2019-12-12 10:11:09.105889 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 10:11:09.105889 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 10:11:09.108890 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_02[0m
+[32m[INFO] 2019-12-12 10:11:09.108890 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 10:11:09.108890 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 10:11:09.108890 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 10:11:09.108890 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang11111111111111111111111"
+}[0m
+[32m[INFO] 2019-12-12 10:11:10.070945 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang11111111111111111111111"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang11111111111111111111111&age=2"
+}[0m
+[32m[INFO] 2019-12-12 10:11:10.070945 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 10:11:10.070945 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 10:24:47.629706 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-12 10:24:48.068731 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_01[0m
+[32m[INFO] 2019-12-12 10:24:48.068731 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 10:24:48.068731 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 10:24:48.068731 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 10:24:48.068731 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "male":"maaaaaaaaaaaaaaaaaaaaaaaaaaaan",
+    "name":"============================================"
+}[0m
+[32m[INFO] 2019-12-12 10:24:49.618820 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"name\": \"============================================\", \"age\": 2, \"male\": \"maaaaaaaaaaaaaaaaaaaaaaaaaaaan\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"108",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "age":2,
+        "male":"maaaaaaaaaaaaaaaaaaaaaaaaaaaan",
+        "name":"============================================"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 10:24:49.618820 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 10:24:49.618820 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 10:24:49.622820 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_02[0m
+[32m[INFO] 2019-12-12 10:24:49.622820 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 10:24:49.622820 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 10:24:49.622820 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 10:24:49.622820 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+    "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+    "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+    "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+    "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+    "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+}[0m
+[32m[INFO] 2019-12-12 10:24:50.517871 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"\\u5bfc\\u6f14/\\u6f14\\u5458/\\u65f6\\u95f4/...\": \"\\u5bfc\\u6f14:\\u5f7c\\u5f97\\u00b7\\u6770\\u514b\\u900a Peter Jackson\\u00a0\\u00a0\\u00a0\\u4e3b\\u6f14:\\u4f0a\\u5229\\u4e9a\\u00b7\\u4f0d\\u5fb7 Elijah Wood / \\u897f\\u6069...\\u00a0/\\u00a0\\u7f8e\\u56fd \\u65b0\\u897f\\u5170\\u00a0/\\u00a0\\u5267\\u60c5 \\u52a8\\u4f5c \\u5947\\u5e7b \\u5192\\u9669\", \"\\u5f71\\u8bc4\": \"9.0 328420\\u4eba\\u8bc4\\u4ef7\", \"\\u7535\\u5f71\\u540d\\u79f0\": \"\\u6307\\u73af\\u738b2\\uff1a\\u53cc\\u5854\\u5947\\u5175\", \"\\u7535\\u5f71\\u5c01\\u9762\": \"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg\", \"\\u7535\\u5f71\\u603b\\u7ed3\": \"\\u627f\\u524d\\u542f\\u540e\\u7684\\u53f2\\u8bd7\\u7bc7\\u7ae0\", \"\\u7535\\u5f71\\u8be6\\u60c5\\u9875\": \"https://movie.douban.com/subject/1291572/\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"717",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+        "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+        "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+        "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+        "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+        "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 10:24:50.517871 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 10:24:50.517871 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 10:27:30.022995 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 10:27:31.034052 - ÏòredisÊı¾İ¿â´æ´¢Êı¾İ£º('aaaa', '11123321')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 10:27:31.034052 - ´ÓredisÊı¾İ¿â¶ÁÈ¡Êı¾İ£º('aaaa', b'11123321')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 10:27:31.034052 - True[0m
+[32m[INFO] 2019-12-12 10:27:31.034052 - 11123321[0m
+[32m[INFO] 2019-12-12 10:27:31.034052 - <class 'str'>[0m
+[32m[INFO] 2019-12-12 10:28:05.727037 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 10:28:06.738095 - ÏòredisÊı¾İ¿â´æ´¢Êı¾İ£º('aaaa', '11123321')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 10:28:06.738095 - ´ÓredisÊı¾İ¿â¶ÁÈ¡Êı¾İ£º('aaaa', b'11123321')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 10:28:06.738095 - True[0m
+[32m[INFO] 2019-12-12 10:28:06.738095 - 11123321[0m
+[32m[INFO] 2019-12-12 10:28:06.738095 - <class 'str'>[0m
+[32m[INFO] 2019-12-12 10:28:06.739095 - ´ÓredisÊı¾İ¿â¶ÁÈ¡Êı¾İ£º('aaaa', b'11123321')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 11:02:56.523624 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-12 11:02:57.122658 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_01[0m
+[32m[INFO] 2019-12-12 11:02:57.122658 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 11:02:57.122658 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 11:02:57.122658 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 11:02:57.122658 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang"
+}[0m
+[32m[INFO] 2019-12-12 11:02:58.710749 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang&age=2"
+}[0m
+[32m[INFO] 2019-12-12 11:02:58.710749 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:02:58.710749 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:02:58.713749 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_02[0m
+[32m[INFO] 2019-12-12 11:02:58.713749 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 11:02:58.713749 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 11:02:58.713749 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 11:02:58.713749 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang11111111111111111111111"
+}[0m
+[32m[INFO] 2019-12-12 11:02:59.685804 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang11111111111111111111111"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang11111111111111111111111&age=2"
+}[0m
+[32m[INFO] 2019-12-12 11:02:59.685804 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:02:59.685804 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:09:18.172453 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-12 11:09:18.619478 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_01[0m
+[32m[INFO] 2019-12-12 11:09:18.620478 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 11:09:18.620478 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 11:09:18.620478 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 11:09:18.620478 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang"
+}[0m
+[32m[INFO] 2019-12-12 11:09:20.173567 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang&age=2"
+}[0m
+[32m[INFO] 2019-12-12 11:09:20.173567 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 11:09:21.176624 - ÏòredisÊı¾İ¿â´æ´¢Êı¾İ£º('age', '2')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 11:09:21.176624 - ÏòredisÊı¾İ¿â´æ´¢Êı¾İ£º('name', 'hang')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 11:09:21.176624 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:09:21.176624 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:09:21.178625 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_02[0m
+[32m[INFO] 2019-12-12 11:09:21.178625 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 11:09:21.179625 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 11:09:21.179625 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 11:09:21.179625 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang11111111111111111111111"
+}[0m
+[32m[INFO] 2019-12-12 11:09:22.140680 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang11111111111111111111111"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang11111111111111111111111&age=2"
+}[0m
+[32m[INFO] 2019-12-12 11:09:22.140680 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 11:09:23.142737 - ÏòredisÊı¾İ¿â´æ´¢Êı¾İ£º('age', '2')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 11:09:23.143737 - ÏòredisÊı¾İ¿â´æ´¢Êı¾İ£º('name', 'hang11111111111111111111111')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 11:09:23.143737 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:09:23.143737 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:10:06.692228 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-12 11:10:06.796234 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 11:10:07.801291 - ´ÓredisÊı¾İ¿â¶ÁÈ¡Êı¾İ£º('age', b'2')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 11:10:07.802291 - ´ÓredisÊı¾İ¿â¶ÁÈ¡Êı¾İ£º('name', b'hang11111111111111111111111')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 11:10:08.144311 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_01[0m
+[32m[INFO] 2019-12-12 11:10:08.144311 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 11:10:08.144311 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 11:10:08.144311 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 11:10:08.144311 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "male":"maaaaaaaaaaaaaaaaaaaaaaaaaaaan",
+    "name":"============================================"
+}[0m
+[32m[INFO] 2019-12-12 11:10:09.651397 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"name\": \"============================================\", \"age\": 2, \"male\": \"maaaaaaaaaaaaaaaaaaaaaaaaaaaan\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"108",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "age":2,
+        "male":"maaaaaaaaaaaaaaaaaaaaaaaaaaaan",
+        "name":"============================================"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 11:10:09.651397 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:10:09.651397 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:10:09.654397 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_02[0m
+[32m[INFO] 2019-12-12 11:10:09.654397 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 11:10:09.654397 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 11:10:09.654397 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 11:10:09.654397 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+    "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+    "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+    "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+    "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+    "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+}[0m
+[32m[INFO] 2019-12-12 11:10:10.633453 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"\\u5bfc\\u6f14/\\u6f14\\u5458/\\u65f6\\u95f4/...\": \"\\u5bfc\\u6f14:\\u5f7c\\u5f97\\u00b7\\u6770\\u514b\\u900a Peter Jackson\\u00a0\\u00a0\\u00a0\\u4e3b\\u6f14:\\u4f0a\\u5229\\u4e9a\\u00b7\\u4f0d\\u5fb7 Elijah Wood / \\u897f\\u6069...\\u00a0/\\u00a0\\u7f8e\\u56fd \\u65b0\\u897f\\u5170\\u00a0/\\u00a0\\u5267\\u60c5 \\u52a8\\u4f5c \\u5947\\u5e7b \\u5192\\u9669\", \"\\u5f71\\u8bc4\": \"9.0 328420\\u4eba\\u8bc4\\u4ef7\", \"\\u7535\\u5f71\\u540d\\u79f0\": \"\\u6307\\u73af\\u738b2\\uff1a\\u53cc\\u5854\\u5947\\u5175\", \"\\u7535\\u5f71\\u5c01\\u9762\": \"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg\", \"\\u7535\\u5f71\\u603b\\u7ed3\": \"\\u627f\\u524d\\u542f\\u540e\\u7684\\u53f2\\u8bd7\\u7bc7\\u7ae0\", \"\\u7535\\u5f71\\u8be6\\u60c5\\u9875\": \"https://movie.douban.com/subject/1291572/\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"717",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+        "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+        "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+        "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+        "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+        "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 11:10:10.634453 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:10:10.634453 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:11:37.636429 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-12 11:11:37.743436 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 11:11:38.750493 - ´ÓredisÊı¾İ¿â¶ÁÈ¡Êı¾İ£º('age', b'2')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 11:11:38.750493 - ´ÓredisÊı¾İ¿â¶ÁÈ¡Êı¾İ£º('name', b'hang11111111111111111111111')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 11:11:39.057511 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_01[0m
+[32m[INFO] 2019-12-12 11:11:39.057511 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 11:11:39.057511 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 11:11:39.058511 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 11:11:39.058511 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "male":"maaaaaaaaaaaaaaaaaaaaaaaaaaaan",
+    "name":"============================================"
+}[0m
+[32m[INFO] 2019-12-12 11:11:40.690604 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"name\": \"============================================\", \"age\": 2, \"male\": \"maaaaaaaaaaaaaaaaaaaaaaaaaaaan\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"108",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "age":2,
+        "male":"maaaaaaaaaaaaaaaaaaaaaaaaaaaan",
+        "name":"============================================"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 11:11:40.690604 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:11:40.690604 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:11:40.692604 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_02[0m
+[32m[INFO] 2019-12-12 11:11:40.693604 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 11:11:40.693604 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 11:11:40.693604 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 11:11:40.693604 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+    "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+    "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+    "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+    "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+    "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+}[0m
+[32m[INFO] 2019-12-12 11:11:41.655659 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"\\u5bfc\\u6f14/\\u6f14\\u5458/\\u65f6\\u95f4/...\": \"\\u5bfc\\u6f14:\\u5f7c\\u5f97\\u00b7\\u6770\\u514b\\u900a Peter Jackson\\u00a0\\u00a0\\u00a0\\u4e3b\\u6f14:\\u4f0a\\u5229\\u4e9a\\u00b7\\u4f0d\\u5fb7 Elijah Wood / \\u897f\\u6069...\\u00a0/\\u00a0\\u7f8e\\u56fd \\u65b0\\u897f\\u5170\\u00a0/\\u00a0\\u5267\\u60c5 \\u52a8\\u4f5c \\u5947\\u5e7b \\u5192\\u9669\", \"\\u5f71\\u8bc4\": \"9.0 328420\\u4eba\\u8bc4\\u4ef7\", \"\\u7535\\u5f71\\u540d\\u79f0\": \"\\u6307\\u73af\\u738b2\\uff1a\\u53cc\\u5854\\u5947\\u5175\", \"\\u7535\\u5f71\\u5c01\\u9762\": \"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg\", \"\\u7535\\u5f71\\u603b\\u7ed3\": \"\\u627f\\u524d\\u542f\\u540e\\u7684\\u53f2\\u8bd7\\u7bc7\\u7ae0\", \"\\u7535\\u5f71\\u8be6\\u60c5\\u9875\": \"https://movie.douban.com/subject/1291572/\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"717",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+        "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+        "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+        "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+        "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+        "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 11:11:41.655659 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:11:41.655659 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:11:41.657659 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_03[0m
+[32m[INFO] 2019-12-12 11:11:41.657659 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ª»ñÈ¡get½Ó¿Ú·µ»ØµÄÊı¾İ×÷Îª²ÎÊı[0m
+[32m[INFO] 2019-12-12 11:11:41.657659 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 11:11:41.657659 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 11:11:41.657659 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":"2",
+    "name":"hang11111111111111111111111"
+}[0m
+[32m[INFO] 2019-12-12 11:11:42.664717 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"name\": \"hang11111111111111111111111\", \"age\": \"2\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"51",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "age":"2",
+        "name":"hang11111111111111111111111"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 11:11:42.664717 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_03, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:11:42.664717 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_03, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:12:05.769039 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-12 11:12:05.872044 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 11:12:06.877102 - ´ÓredisÊı¾İ¿â¶ÁÈ¡Êı¾İ£º('age', b'2')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 11:12:06.878102 - ´ÓredisÊı¾İ¿â¶ÁÈ¡Êı¾İ£º('name', b'hang11111111111111111111111')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 11:12:07.191120 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_01[0m
+[32m[INFO] 2019-12-12 11:12:07.192120 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 11:12:07.192120 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 11:12:07.192120 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 11:12:07.192120 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "male":"maaaaaaaaaaaaaaaaaaaaaaaaaaaan",
+    "name":"============================================"
+}[0m
+[32m[INFO] 2019-12-12 11:12:08.754209 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"name\": \"============================================\", \"age\": 2, \"male\": \"maaaaaaaaaaaaaaaaaaaaaaaaaaaan\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"108",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "age":2,
+        "male":"maaaaaaaaaaaaaaaaaaaaaaaaaaaan",
+        "name":"============================================"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 11:12:08.754209 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:12:08.754209 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:12:08.758210 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_02[0m
+[32m[INFO] 2019-12-12 11:12:08.758210 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 11:12:08.758210 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 11:12:08.758210 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 11:12:08.759210 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+    "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+    "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+    "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+    "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+    "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+}[0m
+[32m[INFO] 2019-12-12 11:12:09.763267 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"\\u5bfc\\u6f14/\\u6f14\\u5458/\\u65f6\\u95f4/...\": \"\\u5bfc\\u6f14:\\u5f7c\\u5f97\\u00b7\\u6770\\u514b\\u900a Peter Jackson\\u00a0\\u00a0\\u00a0\\u4e3b\\u6f14:\\u4f0a\\u5229\\u4e9a\\u00b7\\u4f0d\\u5fb7 Elijah Wood / \\u897f\\u6069...\\u00a0/\\u00a0\\u7f8e\\u56fd \\u65b0\\u897f\\u5170\\u00a0/\\u00a0\\u5267\\u60c5 \\u52a8\\u4f5c \\u5947\\u5e7b \\u5192\\u9669\", \"\\u5f71\\u8bc4\": \"9.0 328420\\u4eba\\u8bc4\\u4ef7\", \"\\u7535\\u5f71\\u540d\\u79f0\": \"\\u6307\\u73af\\u738b2\\uff1a\\u53cc\\u5854\\u5947\\u5175\", \"\\u7535\\u5f71\\u5c01\\u9762\": \"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg\", \"\\u7535\\u5f71\\u603b\\u7ed3\": \"\\u627f\\u524d\\u542f\\u540e\\u7684\\u53f2\\u8bd7\\u7bc7\\u7ae0\", \"\\u7535\\u5f71\\u8be6\\u60c5\\u9875\": \"https://movie.douban.com/subject/1291572/\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"717",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+        "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+        "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+        "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+        "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+        "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 11:12:09.763267 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:12:09.763267 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:12:09.765267 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_03[0m
+[32m[INFO] 2019-12-12 11:12:09.765267 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ª»ñÈ¡get½Ó¿Ú·µ»ØµÄÊı¾İ×÷Îª²ÎÊı[0m
+[32m[INFO] 2019-12-12 11:12:09.765267 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 11:12:09.765267 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 11:12:09.765267 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":"2",
+    "name":"hang11111111111111111111111"
+}[0m
+[32m[INFO] 2019-12-12 11:12:10.763324 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"name\": \"hang11111111111111111111111\", \"age\": \"2\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"51",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "age":"2",
+        "name":"hang11111111111111111111111"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 11:12:10.763324 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_03, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:12:10.763324 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_03, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:34:58.830573 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-12 11:34:58.940579 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 11:35:00.334659 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_01[0m
+[32m[INFO] 2019-12-12 11:35:00.334659 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 11:35:00.334659 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 11:35:00.334659 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 11:35:00.335659 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "male":"maaaaaaaaaaaaaaaaaaaaaaaaaaaan",
+    "name":"============================================"
+}[0m
+[32m[INFO] 2019-12-12 11:35:01.906749 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"name\": \"============================================\", \"age\": 2, \"male\": \"maaaaaaaaaaaaaaaaaaaaaaaaaaaan\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"108",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "age":2,
+        "male":"maaaaaaaaaaaaaaaaaaaaaaaaaaaan",
+        "name":"============================================"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 11:35:01.907749 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:35:01.907749 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:35:01.909749 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_02[0m
+[32m[INFO] 2019-12-12 11:35:01.909749 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 11:35:01.909749 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 11:35:01.909749 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 11:35:01.909749 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+    "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+    "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+    "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+    "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+    "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+}[0m
+[32m[INFO] 2019-12-12 11:35:02.871804 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"\\u5bfc\\u6f14/\\u6f14\\u5458/\\u65f6\\u95f4/...\": \"\\u5bfc\\u6f14:\\u5f7c\\u5f97\\u00b7\\u6770\\u514b\\u900a Peter Jackson\\u00a0\\u00a0\\u00a0\\u4e3b\\u6f14:\\u4f0a\\u5229\\u4e9a\\u00b7\\u4f0d\\u5fb7 Elijah Wood / \\u897f\\u6069...\\u00a0/\\u00a0\\u7f8e\\u56fd \\u65b0\\u897f\\u5170\\u00a0/\\u00a0\\u5267\\u60c5 \\u52a8\\u4f5c \\u5947\\u5e7b \\u5192\\u9669\", \"\\u5f71\\u8bc4\": \"9.0 328420\\u4eba\\u8bc4\\u4ef7\", \"\\u7535\\u5f71\\u540d\\u79f0\": \"\\u6307\\u73af\\u738b2\\uff1a\\u53cc\\u5854\\u5947\\u5175\", \"\\u7535\\u5f71\\u5c01\\u9762\": \"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg\", \"\\u7535\\u5f71\\u603b\\u7ed3\": \"\\u627f\\u524d\\u542f\\u540e\\u7684\\u53f2\\u8bd7\\u7bc7\\u7ae0\", \"\\u7535\\u5f71\\u8be6\\u60c5\\u9875\": \"https://movie.douban.com/subject/1291572/\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"717",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+        "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+        "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+        "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+        "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+        "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 11:35:02.872804 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:35:02.872804 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:35:02.873804 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_03[0m
+[32m[INFO] 2019-12-12 11:35:02.874804 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ª»ñÈ¡get½Ó¿Ú·µ»ØµÄÊı¾İ×÷Îª²ÎÊı[0m
+[32m[INFO] 2019-12-12 11:35:02.874804 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 11:35:02.874804 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 11:35:02.874804 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":null,
+    "name":null
+}[0m
+[32m[INFO] 2019-12-12 11:35:03.835859 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+None[0m
+[31m[ERROR] 2019-12-12 11:35:03.835859 - httpÇëÇóÒì³£: 
+ <class 'AssertionError'>, assert False
+ +  where False = isinstance(None, dict), <traceback object at 0x0000000004F33D48>[0m
+[32m[INFO] 2019-12-12 11:35:41.349005 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-12 11:35:41.810031 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_01[0m
+[32m[INFO] 2019-12-12 11:35:41.810031 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 11:35:41.810031 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 11:35:41.811032 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 11:35:41.811032 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang"
+}[0m
+[32m[INFO] 2019-12-12 11:35:43.314117 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang&age=2"
+}[0m
+[32m[INFO] 2019-12-12 11:35:43.314117 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:35:43.314117 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:35:43.317118 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_02[0m
+[32m[INFO] 2019-12-12 11:35:43.317118 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 11:35:43.317118 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 11:35:43.317118 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 11:35:43.317118 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang11111111111111111111111"
+}[0m
+[32m[INFO] 2019-12-12 11:35:44.287173 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang11111111111111111111111"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang11111111111111111111111&age=2"
+}[0m
+[32m[INFO] 2019-12-12 11:35:44.287173 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:35:44.287173 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:35:44.289173 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_03[0m
+[32m[INFO] 2019-12-12 11:35:44.289173 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÌá¹©½Ó¿ÚÒÀÀµ×Ö¶Î[0m
+[32m[INFO] 2019-12-12 11:35:44.289173 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 11:35:44.289173 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 11:35:44.289173 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang11111111111111111111111"
+}[0m
+[32m[INFO] 2019-12-12 11:35:45.199225 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang11111111111111111111111"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang11111111111111111111111&age=2"
+}[0m
+[32m[INFO] 2019-12-12 11:35:45.200225 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 11:35:46.201283 - ÏòredisÊı¾İ¿â´æ´¢Êı¾İ£º('age', '2')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 11:35:46.202283 - ÏòredisÊı¾İ¿â´æ´¢Êı¾İ£º('name', 'hang11111111111111111111111')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 11:35:46.202283 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_03, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:35:46.202283 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_03, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:35:58.705998 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-12 11:35:58.807004 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 11:35:59.814061 - ´ÓredisÊı¾İ¿â¶ÁÈ¡Êı¾İ£º('age', b'2')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 11:35:59.814061 - ´ÓredisÊı¾İ¿â¶ÁÈ¡Êı¾İ£º('name', b'hang11111111111111111111111')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 11:36:00.124079 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_01[0m
+[32m[INFO] 2019-12-12 11:36:00.124079 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 11:36:00.124079 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 11:36:00.124079 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 11:36:00.124079 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "male":"maaaaaaaaaaaaaaaaaaaaaaaaaaaan",
+    "name":"============================================"
+}[0m
+[32m[INFO] 2019-12-12 11:36:01.667167 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"name\": \"============================================\", \"age\": 2, \"male\": \"maaaaaaaaaaaaaaaaaaaaaaaaaaaan\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"108",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "age":2,
+        "male":"maaaaaaaaaaaaaaaaaaaaaaaaaaaan",
+        "name":"============================================"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 11:36:01.667167 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:36:01.667167 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:36:01.670167 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_02[0m
+[32m[INFO] 2019-12-12 11:36:01.670167 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 11:36:01.670167 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 11:36:01.670167 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 11:36:01.670167 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+    "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+    "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+    "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+    "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+    "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+}[0m
+[32m[INFO] 2019-12-12 11:36:02.560218 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"\\u5bfc\\u6f14/\\u6f14\\u5458/\\u65f6\\u95f4/...\": \"\\u5bfc\\u6f14:\\u5f7c\\u5f97\\u00b7\\u6770\\u514b\\u900a Peter Jackson\\u00a0\\u00a0\\u00a0\\u4e3b\\u6f14:\\u4f0a\\u5229\\u4e9a\\u00b7\\u4f0d\\u5fb7 Elijah Wood / \\u897f\\u6069...\\u00a0/\\u00a0\\u7f8e\\u56fd \\u65b0\\u897f\\u5170\\u00a0/\\u00a0\\u5267\\u60c5 \\u52a8\\u4f5c \\u5947\\u5e7b \\u5192\\u9669\", \"\\u5f71\\u8bc4\": \"9.0 328420\\u4eba\\u8bc4\\u4ef7\", \"\\u7535\\u5f71\\u540d\\u79f0\": \"\\u6307\\u73af\\u738b2\\uff1a\\u53cc\\u5854\\u5947\\u5175\", \"\\u7535\\u5f71\\u5c01\\u9762\": \"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg\", \"\\u7535\\u5f71\\u603b\\u7ed3\": \"\\u627f\\u524d\\u542f\\u540e\\u7684\\u53f2\\u8bd7\\u7bc7\\u7ae0\", \"\\u7535\\u5f71\\u8be6\\u60c5\\u9875\": \"https://movie.douban.com/subject/1291572/\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"717",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+        "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+        "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+        "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+        "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+        "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 11:36:02.560218 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:36:02.560218 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:36:02.562218 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_03[0m
+[32m[INFO] 2019-12-12 11:36:02.562218 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ª»ñÈ¡get½Ó¿Ú·µ»ØµÄÊı¾İ×÷Îª²ÎÊı[0m
+[32m[INFO] 2019-12-12 11:36:02.562218 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 11:36:02.562218 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 11:36:02.562218 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":"2",
+    "name":"hang11111111111111111111111"
+}[0m
+[32m[INFO] 2019-12-12 11:36:03.524273 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"name\": \"hang11111111111111111111111\", \"age\": \"2\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"51",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "age":"2",
+        "name":"hang11111111111111111111111"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 11:36:03.524273 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_03, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 11:36:03.524273 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_03, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:05:20.885605 - µ±Ç°Ê±¼äÎª£º2019-12-12-14-05-20[0m
+[32m[INFO] 2019-12-12 14:05:21.598646 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-12 14:05:21.619647 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:05:22.631705 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_03[0m
+[32m[INFO] 2019-12-12 14:05:22.632705 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÌá¹©½Ó¿ÚÒÀÀµ×Ö¶Î[0m
+[32m[INFO] 2019-12-12 14:05:22.632705 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 14:05:22.632705 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 14:05:22.632705 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG"
+}[0m
+[32m[INFO] 2019-12-12 14:05:24.142792 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG&age=2"
+}[0m
+[32m[INFO] 2019-12-12 14:05:24.142792 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:05:25.143849 - ÏòredisÊı¾İ¿â´æ´¢Êı¾İ£º('age', '2')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:05:25.144849 - ÏòredisÊı¾İ¿â´æ´¢Êı¾İ£º('name', 'GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:05:25.144849 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_03, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:05:25.147849 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_01[0m
+[32m[INFO] 2019-12-12 14:05:25.147849 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 14:05:25.148849 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 14:05:25.148849 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 14:05:25.148849 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang"
+}[0m
+[32m[INFO] 2019-12-12 14:05:26.099903 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang&age=2"
+}[0m
+[32m[INFO] 2019-12-12 14:05:26.099903 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:05:26.103904 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_02[0m
+[32m[INFO] 2019-12-12 14:05:26.103904 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 14:05:26.103904 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 14:05:26.103904 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 14:05:26.103904 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang11111111111111111111111"
+}[0m
+[32m[INFO] 2019-12-12 14:05:26.999955 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang11111111111111111111111"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang11111111111111111111111&age=2"
+}[0m
+[32m[INFO] 2019-12-12 14:05:26.999955 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:05:27.002955 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_01[0m
+[32m[INFO] 2019-12-12 14:05:27.003955 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 14:05:27.003955 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 14:05:27.003955 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 14:05:27.003955 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "male":"maaaaaaaaaaaaaaaaaaaaaaaaaaaan",
+    "name":"============================================"
+}[0m
+[32m[INFO] 2019-12-12 14:05:27.947009 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"name\": \"============================================\", \"age\": 2, \"male\": \"maaaaaaaaaaaaaaaaaaaaaaaaaaaan\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"108",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "age":2,
+        "male":"maaaaaaaaaaaaaaaaaaaaaaaaaaaan",
+        "name":"============================================"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 14:05:27.947009 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:05:27.951009 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_02[0m
+[32m[INFO] 2019-12-12 14:05:27.951009 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 14:05:27.951009 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 14:05:27.951009 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 14:05:27.951009 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+    "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+    "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+    "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+    "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+    "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+}[0m
+[32m[INFO] 2019-12-12 14:05:28.848061 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"\\u5bfc\\u6f14/\\u6f14\\u5458/\\u65f6\\u95f4/...\": \"\\u5bfc\\u6f14:\\u5f7c\\u5f97\\u00b7\\u6770\\u514b\\u900a Peter Jackson\\u00a0\\u00a0\\u00a0\\u4e3b\\u6f14:\\u4f0a\\u5229\\u4e9a\\u00b7\\u4f0d\\u5fb7 Elijah Wood / \\u897f\\u6069...\\u00a0/\\u00a0\\u7f8e\\u56fd \\u65b0\\u897f\\u5170\\u00a0/\\u00a0\\u5267\\u60c5 \\u52a8\\u4f5c \\u5947\\u5e7b \\u5192\\u9669\", \"\\u5f71\\u8bc4\": \"9.0 328420\\u4eba\\u8bc4\\u4ef7\", \"\\u7535\\u5f71\\u540d\\u79f0\": \"\\u6307\\u73af\\u738b2\\uff1a\\u53cc\\u5854\\u5947\\u5175\", \"\\u7535\\u5f71\\u5c01\\u9762\": \"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg\", \"\\u7535\\u5f71\\u603b\\u7ed3\": \"\\u627f\\u524d\\u542f\\u540e\\u7684\\u53f2\\u8bd7\\u7bc7\\u7ae0\", \"\\u7535\\u5f71\\u8be6\\u60c5\\u9875\": \"https://movie.douban.com/subject/1291572/\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"717",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+        "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+        "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+        "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+        "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+        "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 14:05:28.848061 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:05:28.853061 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_03[0m
+[32m[INFO] 2019-12-12 14:05:28.853061 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ª»ñÈ¡get½Ó¿Ú·µ»ØµÄÊı¾İ×÷Îª²ÎÊı[0m
+[32m[INFO] 2019-12-12 14:05:28.853061 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 14:05:28.853061 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 14:05:28.854061 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":null,
+    "name":null
+}[0m
+[32m[INFO] 2019-12-12 14:05:29.810116 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+None[0m
+[31m[ERROR] 2019-12-12 14:05:29.810116 - httpÇëÇóÒì³£: 
+ <class 'AssertionError'>, assert False
+ +  where False = isinstance(None, dict), <traceback object at 0x0000000004DF6D88>[0m
+[32m[INFO] 2019-12-12 14:06:41.240201 - µ±Ç°Ê±¼äÎª£º2019-12-12-14-06-41[0m
+[32m[INFO] 2019-12-12 14:06:41.889238 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-12 14:06:41.907239 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:06:42.905296 - ´ÓredisÊı¾İ¿â¶ÁÈ¡Êı¾İ£º('age', b'2')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:06:42.906297 - ´ÓredisÊı¾İ¿â¶ÁÈ¡Êı¾İ£º('name', b'GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:06:42.912297 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_03[0m
+[32m[INFO] 2019-12-12 14:06:42.912297 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÌá¹©½Ó¿ÚÒÀÀµ×Ö¶Î[0m
+[32m[INFO] 2019-12-12 14:06:42.912297 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 14:06:42.912297 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 14:06:42.912297 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG"
+}[0m
+[32m[INFO] 2019-12-12 14:06:44.469386 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG&age=2"
+}[0m
+[32m[INFO] 2019-12-12 14:06:44.469386 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:06:45.464443 - ÏòredisÊı¾İ¿â´æ´¢Êı¾İ£º('age', '2')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:06:45.465443 - ÏòredisÊı¾İ¿â´æ´¢Êı¾İ£º('name', 'GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:06:45.465443 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_03, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:06:45.468443 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_01[0m
+[32m[INFO] 2019-12-12 14:06:45.468443 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 14:06:45.469443 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 14:06:45.469443 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 14:06:45.469443 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang"
+}[0m
+[32m[INFO] 2019-12-12 14:06:46.422498 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang&age=2"
+}[0m
+[32m[INFO] 2019-12-12 14:06:46.422498 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:06:46.425498 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_02[0m
+[32m[INFO] 2019-12-12 14:06:46.425498 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 14:06:46.425498 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 14:06:46.425498 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 14:06:46.425498 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang11111111111111111111111"
+}[0m
+[32m[INFO] 2019-12-12 14:06:47.489559 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang11111111111111111111111"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang11111111111111111111111&age=2"
+}[0m
+[32m[INFO] 2019-12-12 14:06:47.489559 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:06:47.492559 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_01[0m
+[32m[INFO] 2019-12-12 14:06:47.492559 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 14:06:47.492559 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 14:06:47.492559 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 14:06:47.493559 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "male":"maaaaaaaaaaaaaaaaaaaaaaaaaaaan",
+    "name":"============================================"
+}[0m
+[32m[INFO] 2019-12-12 14:06:48.512617 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"name\": \"============================================\", \"age\": 2, \"male\": \"maaaaaaaaaaaaaaaaaaaaaaaaaaaan\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"108",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "age":2,
+        "male":"maaaaaaaaaaaaaaaaaaaaaaaaaaaan",
+        "name":"============================================"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 14:06:48.512617 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:06:48.516617 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_02[0m
+[32m[INFO] 2019-12-12 14:06:48.516617 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 14:06:48.516617 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 14:06:48.516617 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 14:06:48.516617 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+    "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+    "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+    "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+    "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+    "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+}[0m
+[32m[INFO] 2019-12-12 14:06:49.518675 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"\\u5bfc\\u6f14/\\u6f14\\u5458/\\u65f6\\u95f4/...\": \"\\u5bfc\\u6f14:\\u5f7c\\u5f97\\u00b7\\u6770\\u514b\\u900a Peter Jackson\\u00a0\\u00a0\\u00a0\\u4e3b\\u6f14:\\u4f0a\\u5229\\u4e9a\\u00b7\\u4f0d\\u5fb7 Elijah Wood / \\u897f\\u6069...\\u00a0/\\u00a0\\u7f8e\\u56fd \\u65b0\\u897f\\u5170\\u00a0/\\u00a0\\u5267\\u60c5 \\u52a8\\u4f5c \\u5947\\u5e7b \\u5192\\u9669\", \"\\u5f71\\u8bc4\": \"9.0 328420\\u4eba\\u8bc4\\u4ef7\", \"\\u7535\\u5f71\\u540d\\u79f0\": \"\\u6307\\u73af\\u738b2\\uff1a\\u53cc\\u5854\\u5947\\u5175\", \"\\u7535\\u5f71\\u5c01\\u9762\": \"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg\", \"\\u7535\\u5f71\\u603b\\u7ed3\": \"\\u627f\\u524d\\u542f\\u540e\\u7684\\u53f2\\u8bd7\\u7bc7\\u7ae0\", \"\\u7535\\u5f71\\u8be6\\u60c5\\u9875\": \"https://movie.douban.com/subject/1291572/\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"717",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+        "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+        "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+        "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+        "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+        "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 14:06:49.519675 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:06:49.522675 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_03[0m
+[32m[INFO] 2019-12-12 14:06:49.522675 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ª»ñÈ¡get½Ó¿Ú·µ»ØµÄÊı¾İ×÷Îª²ÎÊı[0m
+[32m[INFO] 2019-12-12 14:06:49.522675 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 14:06:49.522675 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 14:06:49.522675 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":"2",
+    "name":"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG"
+}[0m
+[32m[INFO] 2019-12-12 14:06:50.480730 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"name\": \"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG\", \"age\": \"2\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"58",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "age":"2",
+        "name":"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 14:06:50.481730 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_03, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:12:51.180361 - µ±Ç°Ê±¼äÎª£º2019-12-12-14-12-51[0m
+[32m[INFO] 2019-12-12 14:12:51.878401 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-12 14:12:51.899402 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:12:52.904459 - ´ÓredisÊı¾İ¿â¶ÁÈ¡Êı¾İ£º('age', b'2')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:12:52.905459 - ´ÓredisÊı¾İ¿â¶ÁÈ¡Êı¾İ£º('name', b'GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:12:52.911460 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_03[0m
+[32m[INFO] 2019-12-12 14:12:52.911460 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÌá¹©½Ó¿ÚÒÀÀµ×Ö¶Î[0m
+[32m[INFO] 2019-12-12 14:12:52.911460 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 14:12:52.911460 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 14:12:52.912460 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG"
+}[0m
+[32m[INFO] 2019-12-12 14:12:54.529552 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG&age=2"
+}[0m
+[32m[INFO] 2019-12-12 14:12:54.529552 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:12:55.530609 - ÏòredisÊı¾İ¿â´æ´¢Êı¾İ£º('age', '2')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:12:55.531609 - ÏòredisÊı¾İ¿â´æ´¢Êı¾İ£º('name', 'GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:12:55.531609 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_03, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:12:55.534610 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_01[0m
+[32m[INFO] 2019-12-12 14:12:55.534610 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 14:12:55.534610 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 14:12:55.534610 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 14:12:55.535610 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang"
+}[0m
+[32m[INFO] 2019-12-12 14:12:56.467663 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang&age=2"
+}[0m
+[32m[INFO] 2019-12-12 14:12:56.467663 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:12:56.470663 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_02[0m
+[32m[INFO] 2019-12-12 14:12:56.470663 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 14:12:56.470663 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 14:12:56.470663 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 14:12:56.471663 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang11111111111111111111111"
+}[0m
+[32m[INFO] 2019-12-12 14:12:57.538724 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang11111111111111111111111"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang11111111111111111111111&age=2"
+}[0m
+[32m[INFO] 2019-12-12 14:12:57.538724 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:12:57.541724 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_01[0m
+[32m[INFO] 2019-12-12 14:12:57.541724 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 14:12:57.541724 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 14:12:57.542724 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 14:12:57.542724 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "male":"maaaaaaaaaaaaaaaaaaaaaaaaaaaan",
+    "name":"============================================"
+}[0m
+[32m[INFO] 2019-12-12 14:12:58.532781 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"name\": \"============================================\", \"age\": 2, \"male\": \"maaaaaaaaaaaaaaaaaaaaaaaaaaaan\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"108",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "age":2,
+        "male":"maaaaaaaaaaaaaaaaaaaaaaaaaaaan",
+        "name":"============================================"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 14:12:58.533781 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:12:58.536781 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_02[0m
+[32m[INFO] 2019-12-12 14:12:58.536781 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 14:12:58.536781 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 14:12:58.536781 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 14:12:58.537781 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+    "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+    "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+    "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+    "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+    "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+}[0m
+[32m[INFO] 2019-12-12 14:12:59.551839 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"\\u5bfc\\u6f14/\\u6f14\\u5458/\\u65f6\\u95f4/...\": \"\\u5bfc\\u6f14:\\u5f7c\\u5f97\\u00b7\\u6770\\u514b\\u900a Peter Jackson\\u00a0\\u00a0\\u00a0\\u4e3b\\u6f14:\\u4f0a\\u5229\\u4e9a\\u00b7\\u4f0d\\u5fb7 Elijah Wood / \\u897f\\u6069...\\u00a0/\\u00a0\\u7f8e\\u56fd \\u65b0\\u897f\\u5170\\u00a0/\\u00a0\\u5267\\u60c5 \\u52a8\\u4f5c \\u5947\\u5e7b \\u5192\\u9669\", \"\\u5f71\\u8bc4\": \"9.0 328420\\u4eba\\u8bc4\\u4ef7\", \"\\u7535\\u5f71\\u540d\\u79f0\": \"\\u6307\\u73af\\u738b2\\uff1a\\u53cc\\u5854\\u5947\\u5175\", \"\\u7535\\u5f71\\u5c01\\u9762\": \"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg\", \"\\u7535\\u5f71\\u603b\\u7ed3\": \"\\u627f\\u524d\\u542f\\u540e\\u7684\\u53f2\\u8bd7\\u7bc7\\u7ae0\", \"\\u7535\\u5f71\\u8be6\\u60c5\\u9875\": \"https://movie.douban.com/subject/1291572/\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"717",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+        "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+        "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+        "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+        "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+        "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 14:12:59.551839 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:12:59.555840 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_03[0m
+[32m[INFO] 2019-12-12 14:12:59.555840 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ª»ñÈ¡get½Ó¿Ú·µ»ØµÄÊı¾İ×÷Îª²ÎÊı[0m
+[32m[INFO] 2019-12-12 14:12:59.555840 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 14:12:59.555840 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 14:12:59.555840 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":"2",
+    "name":"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG"
+}[0m
+[32m[INFO] 2019-12-12 14:13:00.515895 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"name\": \"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG\", \"age\": \"2\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"58",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "age":"2",
+        "name":"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 14:13:00.515895 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_03, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:14:38.985527 - µ±Ç°Ê±¼äÎª£º2019-12-12-14-14-38[0m
+[32m[INFO] 2019-12-12 14:14:39.713568 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-12 14:14:39.731569 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:14:40.737627 - ´ÓredisÊı¾İ¿â¶ÁÈ¡Êı¾İ£º('age', b'2')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:14:40.738627 - ´ÓredisÊı¾İ¿â¶ÁÈ¡Êı¾İ£º('name', b'GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:14:40.744627 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_03[0m
+[32m[INFO] 2019-12-12 14:14:40.744627 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÌá¹©½Ó¿ÚÒÀÀµ×Ö¶Î[0m
+[32m[INFO] 2019-12-12 14:14:40.744627 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 14:14:40.744627 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 14:14:40.744627 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG"
+}[0m
+[32m[INFO] 2019-12-12 14:14:42.334718 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG&age=2"
+}[0m
+[32m[INFO] 2019-12-12 14:14:42.334718 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:14:43.335776 - ÏòredisÊı¾İ¿â´æ´¢Êı¾İ£º('age', '2')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:14:43.336776 - ÏòredisÊı¾İ¿â´æ´¢Êı¾İ£º('name', 'GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:14:43.336776 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_03, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:14:43.340776 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_01[0m
+[32m[INFO] 2019-12-12 14:14:43.341776 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 14:14:43.341776 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 14:14:43.341776 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 14:14:43.341776 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang"
+}[0m
+[32m[INFO] 2019-12-12 14:14:44.310831 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang&age=2"
+}[0m
+[32m[INFO] 2019-12-12 14:14:44.310831 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:14:44.313831 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_02[0m
+[32m[INFO] 2019-12-12 14:14:44.313831 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 14:14:44.313831 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 14:14:44.314832 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 14:14:44.314832 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang11111111111111111111111"
+}[0m
+[32m[INFO] 2019-12-12 14:14:45.282887 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang11111111111111111111111"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang11111111111111111111111&age=2"
+}[0m
+[32m[INFO] 2019-12-12 14:14:45.283887 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:14:45.286887 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_01[0m
+[32m[INFO] 2019-12-12 14:14:45.286887 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 14:14:45.286887 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 14:14:45.286887 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 14:14:45.286887 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "male":"maaaaaaaaaaaaaaaaaaaaaaaaaaaan",
+    "name":"============================================"
+}[0m
+[32m[INFO] 2019-12-12 14:14:46.257943 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"name\": \"============================================\", \"age\": 2, \"male\": \"maaaaaaaaaaaaaaaaaaaaaaaaaaaan\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"108",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "age":2,
+        "male":"maaaaaaaaaaaaaaaaaaaaaaaaaaaan",
+        "name":"============================================"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 14:14:46.257943 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:14:46.260943 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_02[0m
+[32m[INFO] 2019-12-12 14:14:46.260943 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 14:14:46.260943 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 14:14:46.261943 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 14:14:46.261943 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+    "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+    "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+    "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+    "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+    "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+}[0m
+[32m[INFO] 2019-12-12 14:14:47.257000 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"\\u5bfc\\u6f14/\\u6f14\\u5458/\\u65f6\\u95f4/...\": \"\\u5bfc\\u6f14:\\u5f7c\\u5f97\\u00b7\\u6770\\u514b\\u900a Peter Jackson\\u00a0\\u00a0\\u00a0\\u4e3b\\u6f14:\\u4f0a\\u5229\\u4e9a\\u00b7\\u4f0d\\u5fb7 Elijah Wood / \\u897f\\u6069...\\u00a0/\\u00a0\\u7f8e\\u56fd \\u65b0\\u897f\\u5170\\u00a0/\\u00a0\\u5267\\u60c5 \\u52a8\\u4f5c \\u5947\\u5e7b \\u5192\\u9669\", \"\\u5f71\\u8bc4\": \"9.0 328420\\u4eba\\u8bc4\\u4ef7\", \"\\u7535\\u5f71\\u540d\\u79f0\": \"\\u6307\\u73af\\u738b2\\uff1a\\u53cc\\u5854\\u5947\\u5175\", \"\\u7535\\u5f71\\u5c01\\u9762\": \"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg\", \"\\u7535\\u5f71\\u603b\\u7ed3\": \"\\u627f\\u524d\\u542f\\u540e\\u7684\\u53f2\\u8bd7\\u7bc7\\u7ae0\", \"\\u7535\\u5f71\\u8be6\\u60c5\\u9875\": \"https://movie.douban.com/subject/1291572/\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"717",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+        "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+        "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+        "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+        "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+        "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 14:14:47.257000 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:14:47.260000 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_03[0m
+[32m[INFO] 2019-12-12 14:14:47.260000 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ª»ñÈ¡get½Ó¿Ú·µ»ØµÄÊı¾İ×÷Îª²ÎÊı[0m
+[32m[INFO] 2019-12-12 14:14:47.260000 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 14:14:47.260000 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 14:14:47.260000 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":"2",
+    "name":"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG"
+}[0m
+[32m[INFO] 2019-12-12 14:14:48.265057 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"name\": \"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG\", \"age\": \"2\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"58",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "age":"2",
+        "name":"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 14:14:48.265057 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_03, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:15:24.068105 - µ±Ç°Ê±¼äÎª£º2019-12-12-14-15-24[0m
+[32m[INFO] 2019-12-12 14:15:24.734143 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-12 14:15:24.752144 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:15:25.758202 - ´ÓredisÊı¾İ¿â¶ÁÈ¡Êı¾İ£º('age', b'2')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:15:25.759202 - ´ÓredisÊı¾İ¿â¶ÁÈ¡Êı¾İ£º('name', b'GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:15:25.765202 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_03[0m
+[32m[INFO] 2019-12-12 14:15:25.765202 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÌá¹©½Ó¿ÚÒÀÀµ×Ö¶Î[0m
+[32m[INFO] 2019-12-12 14:15:25.765202 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 14:15:25.765202 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 14:15:25.765202 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG"
+}[0m
+[32m[INFO] 2019-12-12 14:15:27.325292 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG&age=2"
+}[0m
+[32m[INFO] 2019-12-12 14:15:27.325292 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:15:28.326349 - ÏòredisÊı¾İ¿â´æ´¢Êı¾İ£º('age', '2')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:15:28.327349 - ÏòredisÊı¾İ¿â´æ´¢Êı¾İ£º('name', 'GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:15:28.327349 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_03, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:15:28.331349 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_01[0m
+[32m[INFO] 2019-12-12 14:15:28.332349 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 14:15:28.332349 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 14:15:28.332349 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 14:15:28.332349 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang"
+}[0m
+[32m[INFO] 2019-12-12 14:15:29.226400 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang&age=2"
+}[0m
+[32m[INFO] 2019-12-12 14:15:29.226400 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:15:29.229400 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_02[0m
+[32m[INFO] 2019-12-12 14:15:29.229400 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 14:15:29.229400 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 14:15:29.229400 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 14:15:29.229400 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang11111111111111111111111"
+}[0m
+[32m[INFO] 2019-12-12 14:15:30.192456 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang11111111111111111111111"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang11111111111111111111111&age=2"
+}[0m
+[32m[INFO] 2019-12-12 14:15:30.192456 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:15:30.195456 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_01[0m
+[32m[INFO] 2019-12-12 14:15:30.195456 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 14:15:30.196456 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 14:15:30.196456 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 14:15:30.196456 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "male":"maaaaaaaaaaaaaaaaaaaaaaaaaaaan",
+    "name":"============================================"
+}[0m
+[32m[INFO] 2019-12-12 14:15:31.095507 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"name\": \"============================================\", \"age\": 2, \"male\": \"maaaaaaaaaaaaaaaaaaaaaaaaaaaan\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"108",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "age":2,
+        "male":"maaaaaaaaaaaaaaaaaaaaaaaaaaaan",
+        "name":"============================================"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 14:15:31.095507 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:15:31.098507 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_02[0m
+[32m[INFO] 2019-12-12 14:15:31.098507 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 14:15:31.099507 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 14:15:31.099507 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 14:15:31.099507 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+    "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+    "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+    "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+    "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+    "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+}[0m
+[32m[INFO] 2019-12-12 14:15:32.065563 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"\\u5bfc\\u6f14/\\u6f14\\u5458/\\u65f6\\u95f4/...\": \"\\u5bfc\\u6f14:\\u5f7c\\u5f97\\u00b7\\u6770\\u514b\\u900a Peter Jackson\\u00a0\\u00a0\\u00a0\\u4e3b\\u6f14:\\u4f0a\\u5229\\u4e9a\\u00b7\\u4f0d\\u5fb7 Elijah Wood / \\u897f\\u6069...\\u00a0/\\u00a0\\u7f8e\\u56fd \\u65b0\\u897f\\u5170\\u00a0/\\u00a0\\u5267\\u60c5 \\u52a8\\u4f5c \\u5947\\u5e7b \\u5192\\u9669\", \"\\u5f71\\u8bc4\": \"9.0 328420\\u4eba\\u8bc4\\u4ef7\", \"\\u7535\\u5f71\\u540d\\u79f0\": \"\\u6307\\u73af\\u738b2\\uff1a\\u53cc\\u5854\\u5947\\u5175\", \"\\u7535\\u5f71\\u5c01\\u9762\": \"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg\", \"\\u7535\\u5f71\\u603b\\u7ed3\": \"\\u627f\\u524d\\u542f\\u540e\\u7684\\u53f2\\u8bd7\\u7bc7\\u7ae0\", \"\\u7535\\u5f71\\u8be6\\u60c5\\u9875\": \"https://movie.douban.com/subject/1291572/\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"717",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+        "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+        "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+        "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+        "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+        "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 14:15:32.066563 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:15:32.069563 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_03[0m
+[32m[INFO] 2019-12-12 14:15:32.069563 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ª»ñÈ¡get½Ó¿Ú·µ»ØµÄÊı¾İ×÷Îª²ÎÊı[0m
+[32m[INFO] 2019-12-12 14:15:32.069563 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 14:15:32.069563 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 14:15:32.069563 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":"2",
+    "name":"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG"
+}[0m
+[32m[INFO] 2019-12-12 14:15:33.025618 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"name\": \"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG\", \"age\": \"2\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"58",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "age":"2",
+        "name":"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 14:15:33.025618 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_03, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:17:44.519139 - µ±Ç°Ê±¼äÎª£º2019-12-12-14-17-44[0m
+[32m[INFO] 2019-12-12 14:17:45.176176 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-12 14:17:45.199178 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:17:46.203235 - ´ÓredisÊı¾İ¿â¶ÁÈ¡Êı¾İ£º('age', b'2')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:17:46.204235 - ´ÓredisÊı¾İ¿â¶ÁÈ¡Êı¾İ£º('name', b'GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:17:46.210235 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_01[0m
+[32m[INFO] 2019-12-12 14:17:46.210235 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÌá¹©½Ó¿ÚÒÀÀµ×Ö¶Î[0m
+[32m[INFO] 2019-12-12 14:17:46.210235 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 14:17:46.210235 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 14:17:46.210235 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG"
+}[0m
+[32m[INFO] 2019-12-12 14:17:47.774325 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG&age=2"
+}[0m
+[32m[INFO] 2019-12-12 14:17:47.775325 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:17:48.777382 - ÏòredisÊı¾İ¿â´æ´¢Êı¾İ£º('age', '2')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:17:48.777382 - ÏòredisÊı¾İ¿â´æ´¢Êı¾İ£º('name', 'GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:17:48.777382 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:17:48.781382 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_02[0m
+[32m[INFO] 2019-12-12 14:17:48.781382 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 14:17:48.782382 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 14:17:48.782382 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 14:17:48.782382 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang"
+}[0m
+[32m[INFO] 2019-12-12 14:17:49.740437 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang&age=2"
+}[0m
+[32m[INFO] 2019-12-12 14:17:49.741437 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:17:49.744437 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_03[0m
+[32m[INFO] 2019-12-12 14:17:49.744437 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 14:17:49.744437 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 14:17:49.744437 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 14:17:49.745438 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang11111111111111111111111"
+}[0m
+[32m[INFO] 2019-12-12 14:17:50.714493 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang11111111111111111111111"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang11111111111111111111111&age=2"
+}[0m
+[32m[INFO] 2019-12-12 14:17:50.714493 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_03, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:17:50.717493 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_01[0m
+[32m[INFO] 2019-12-12 14:17:50.717493 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 14:17:50.717493 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 14:17:50.718493 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 14:17:50.718493 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "male":"maaaaaaaaaaaaaaaaaaaaaaaaaaaan",
+    "name":"============================================"
+}[0m
+[32m[INFO] 2019-12-12 14:17:51.712550 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"name\": \"============================================\", \"age\": 2, \"male\": \"maaaaaaaaaaaaaaaaaaaaaaaaaaaan\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"108",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "age":2,
+        "male":"maaaaaaaaaaaaaaaaaaaaaaaaaaaan",
+        "name":"============================================"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 14:17:51.712550 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:17:51.716550 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_02[0m
+[32m[INFO] 2019-12-12 14:17:51.716550 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 14:17:51.716550 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 14:17:51.716550 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 14:17:51.716550 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+    "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+    "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+    "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+    "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+    "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+}[0m
+[32m[INFO] 2019-12-12 14:17:52.669605 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"\\u5bfc\\u6f14/\\u6f14\\u5458/\\u65f6\\u95f4/...\": \"\\u5bfc\\u6f14:\\u5f7c\\u5f97\\u00b7\\u6770\\u514b\\u900a Peter Jackson\\u00a0\\u00a0\\u00a0\\u4e3b\\u6f14:\\u4f0a\\u5229\\u4e9a\\u00b7\\u4f0d\\u5fb7 Elijah Wood / \\u897f\\u6069...\\u00a0/\\u00a0\\u7f8e\\u56fd \\u65b0\\u897f\\u5170\\u00a0/\\u00a0\\u5267\\u60c5 \\u52a8\\u4f5c \\u5947\\u5e7b \\u5192\\u9669\", \"\\u5f71\\u8bc4\": \"9.0 328420\\u4eba\\u8bc4\\u4ef7\", \"\\u7535\\u5f71\\u540d\\u79f0\": \"\\u6307\\u73af\\u738b2\\uff1a\\u53cc\\u5854\\u5947\\u5175\", \"\\u7535\\u5f71\\u5c01\\u9762\": \"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg\", \"\\u7535\\u5f71\\u603b\\u7ed3\": \"\\u627f\\u524d\\u542f\\u540e\\u7684\\u53f2\\u8bd7\\u7bc7\\u7ae0\", \"\\u7535\\u5f71\\u8be6\\u60c5\\u9875\": \"https://movie.douban.com/subject/1291572/\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"717",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+        "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+        "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+        "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+        "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+        "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 14:17:52.669605 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:17:52.672605 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_03[0m
+[32m[INFO] 2019-12-12 14:17:52.672605 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ª»ñÈ¡get½Ó¿Ú·µ»ØµÄÊı¾İ×÷Îª²ÎÊı[0m
+[32m[INFO] 2019-12-12 14:17:52.672605 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 14:17:52.672605 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 14:17:52.672605 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":"2",
+    "name":"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG"
+}[0m
+[32m[INFO] 2019-12-12 14:17:53.681663 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"name\": \"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG\", \"age\": \"2\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"58",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "age":"2",
+        "name":"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 14:17:53.682663 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_03, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:55:41.517375 - µ±Ç°Ê±¼äÎª£º2019-12-12-14-55-41[0m
+[32m[INFO] 2019-12-12 14:55:42.183414 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-12 14:55:42.202415 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:55:43.216473 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_01[0m
+[32m[INFO] 2019-12-12 14:55:43.216473 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÌá¹©½Ó¿ÚÒÀÀµ×Ö¶Î[0m
+[32m[INFO] 2019-12-12 14:55:43.216473 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 14:55:43.216473 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 14:55:43.217473 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG"
+}[0m
+[32m[INFO] 2019-12-12 14:55:45.452601 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG&age=2"
+}[0m
+[32m[INFO] 2019-12-12 14:55:45.452601 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:55:46.459658 - ÏòredisÊı¾İ¿â´æ´¢Êı¾İ£º('age', '2')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:55:46.460658 - ÏòredisÊı¾İ¿â´æ´¢Êı¾İ£º('name', 'GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 14:55:46.460658 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:55:46.463658 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_02[0m
+[32m[INFO] 2019-12-12 14:55:46.463658 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 14:55:46.463658 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 14:55:46.464658 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 14:55:46.464658 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang"
+}[0m
+[32m[INFO] 2019-12-12 14:55:47.375711 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang&age=2"
+}[0m
+[32m[INFO] 2019-12-12 14:55:47.376711 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:55:47.379711 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_03[0m
+[32m[INFO] 2019-12-12 14:55:47.379711 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 14:55:47.379711 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 14:55:47.379711 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"11111",
+    "b":"22222"
+}[0m
+[32m[INFO] 2019-12-12 14:55:47.379711 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "name":"hang11111111111111111111111"
+}[0m
+[32m[INFO] 2019-12-12 14:55:48.285763 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"2",
+        "name":"hang11111111111111111111111"
+    },
+    "headers":{
+        "A":"11111",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"22222",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=hang11111111111111111111111&age=2"
+}[0m
+[32m[INFO] 2019-12-12 14:55:48.285763 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_03, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:55:48.288763 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_01[0m
+[32m[INFO] 2019-12-12 14:55:48.288763 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 14:55:48.288763 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 14:55:48.288763 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 14:55:48.288763 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":2,
+    "male":"maaaaaaaaaaaaaaaaaaaaaaaaaaaan",
+    "name":"============================================"
+}[0m
+[32m[INFO] 2019-12-12 14:55:49.201815 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"name\": \"============================================\", \"age\": 2, \"male\": \"maaaaaaaaaaaaaaaaaaaaaaaaaaaan\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"108",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "age":2,
+        "male":"maaaaaaaaaaaaaaaaaaaaaaaaaaaan",
+        "name":"============================================"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 14:55:49.201815 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:55:49.205815 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_02[0m
+[32m[INFO] 2019-12-12 14:55:49.205815 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 14:55:49.205815 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 14:55:49.205815 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 14:55:49.205815 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+    "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+    "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+    "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+    "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+    "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+}[0m
+[32m[INFO] 2019-12-12 14:55:50.105867 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"\\u5bfc\\u6f14/\\u6f14\\u5458/\\u65f6\\u95f4/...\": \"\\u5bfc\\u6f14:\\u5f7c\\u5f97\\u00b7\\u6770\\u514b\\u900a Peter Jackson\\u00a0\\u00a0\\u00a0\\u4e3b\\u6f14:\\u4f0a\\u5229\\u4e9a\\u00b7\\u4f0d\\u5fb7 Elijah Wood / \\u897f\\u6069...\\u00a0/\\u00a0\\u7f8e\\u56fd \\u65b0\\u897f\\u5170\\u00a0/\\u00a0\\u5267\\u60c5 \\u52a8\\u4f5c \\u5947\\u5e7b \\u5192\\u9669\", \"\\u5f71\\u8bc4\": \"9.0 328420\\u4eba\\u8bc4\\u4ef7\", \"\\u7535\\u5f71\\u540d\\u79f0\": \"\\u6307\\u73af\\u738b2\\uff1a\\u53cc\\u5854\\u5947\\u5175\", \"\\u7535\\u5f71\\u5c01\\u9762\": \"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg\", \"\\u7535\\u5f71\\u603b\\u7ed3\": \"\\u627f\\u524d\\u542f\\u540e\\u7684\\u53f2\\u8bd7\\u7bc7\\u7ae0\", \"\\u7535\\u5f71\\u8be6\\u60c5\\u9875\": \"https://movie.douban.com/subject/1291572/\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"717",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+        "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+        "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+        "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+        "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+        "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 14:55:50.105867 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 14:55:50.108867 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_03[0m
+[32m[INFO] 2019-12-12 14:55:50.108867 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ª»ñÈ¡get½Ó¿Ú·µ»ØµÄÊı¾İ×÷Îª²ÎÊı[0m
+[32m[INFO] 2019-12-12 14:55:50.108867 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 14:55:50.108867 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 14:55:50.108867 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":null,
+    "name":null
+}[0m
+[32m[INFO] 2019-12-12 14:55:51.012919 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+None[0m
+[31m[ERROR] 2019-12-12 14:55:51.012919 - httpÇëÇóÒì³£: 
+ <class 'AssertionError'>, assert False
+ +  where False = isinstance(None, dict), <traceback object at 0x0000000004D88288>[0m
+[32m[INFO] 2019-12-12 15:31:43.997062 - µ±Ç°Ê±¼äÎª£º2019-12-12-15-31-43[0m
+[32m[INFO] 2019-12-12 15:31:44.675101 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-12 15:31:45.065123 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 15:31:46.077181 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_01[0m
+[32m[INFO] 2019-12-12 15:31:46.077181 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÌá¹©½Ó¿ÚÒÀÀµ×Ö¶Î[0m
+[32m[INFO] 2019-12-12 15:31:46.077181 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 15:31:46.078181 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"YiJqYRReEiGFTuMMItkdMaWfqenqXyaXagHJDpiuVIWSwvXifnPhdkPgRyHRxwQrGeIVqaBEozWanenUBYRU",
+    "b":"ZIPRWOwLaPbErkOJGXNNdJq"
+}[0m
+[32m[INFO] 2019-12-12 15:31:46.078181 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":92,
+    "name":"fQOSLBevGNmcdxPESQyId"
+}[0m
+[32m[INFO] 2019-12-12 15:31:47.790279 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"92",
+        "name":"fQOSLBevGNmcdxPESQyId"
+    },
+    "headers":{
+        "A":"YiJqYRReEiGFTuMMItkdMaWfqenqXyaXagHJDpiuVIWSwvXifnPhdkPgRyHRxwQrGeIVqaBEozWanenUBYRU",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"ZIPRWOwLaPbErkOJGXNNdJq",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=fQOSLBevGNmcdxPESQyId&age=92"
+}[0m
+[32m[INFO] 2019-12-12 15:31:47.791279 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 15:31:48.792336 - ÏòredisÊı¾İ¿â´æ´¢Êı¾İ£º('age', '92')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 15:31:48.793337 - ÏòredisÊı¾İ¿â´æ´¢Êı¾İ£º('name', 'fQOSLBevGNmcdxPESQyId')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 15:31:48.793337 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 15:31:48.796337 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_02[0m
+[32m[INFO] 2019-12-12 15:31:48.797337 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 15:31:48.797337 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 15:31:48.797337 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"pjeWtiuHnERTTTDJWyuBRBXEaBqmpIVYxF",
+    "b":"sLCzSJrGxKZHAieQFllBieyTqBQopqQKuaQOadLpslxYoLUtTeSWiPECSwG"
+}[0m
+[32m[INFO] 2019-12-12 15:31:48.797337 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":80,
+    "name":"vAdTnlJiSyuGVOfSiumVUZJQXPTHbyQVxkwAkBXWDTGeCQpsyQEbtNvJlPgOOJXTZSmDjvxJeLgYUspCu"
+}[0m
+[32m[INFO] 2019-12-12 15:31:49.698388 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"80",
+        "name":"vAdTnlJiSyuGVOfSiumVUZJQXPTHbyQVxkwAkBXWDTGeCQpsyQEbtNvJlPgOOJXTZSmDjvxJeLgYUspCu"
+    },
+    "headers":{
+        "A":"pjeWtiuHnERTTTDJWyuBRBXEaBqmpIVYxF",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"sLCzSJrGxKZHAieQFllBieyTqBQopqQKuaQOadLpslxYoLUtTeSWiPECSwG",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=vAdTnlJiSyuGVOfSiumVUZJQXPTHbyQVxkwAkBXWDTGeCQpsyQEbtNvJlPgOOJXTZSmDjvxJeLgYUspCu&age=80"
+}[0m
+[32m[INFO] 2019-12-12 15:31:49.699388 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 15:31:49.702389 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_03[0m
+[32m[INFO] 2019-12-12 15:31:49.703389 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 15:31:49.703389 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 15:31:49.703389 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"VxSQNgjnToSdTXqhlMwfwOyZjGZGiwLAtsiNwlrvvOiLRrEheawlavewVVYWYAOlHNOkyDr",
+    "b":"WdGgdwGGmqMPPkhWAKvAMmSfzQcnWeZt"
+}[0m
+[32m[INFO] 2019-12-12 15:31:49.703389 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":3,
+    "name":"qfsrUCJQOpXRBOqTXBByCeXbUubCgl"
+}[0m
+[32m[INFO] 2019-12-12 15:31:50.595440 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"3",
+        "name":"qfsrUCJQOpXRBOqTXBByCeXbUubCgl"
+    },
+    "headers":{
+        "A":"VxSQNgjnToSdTXqhlMwfwOyZjGZGiwLAtsiNwlrvvOiLRrEheawlavewVVYWYAOlHNOkyDr",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"WdGgdwGGmqMPPkhWAKvAMmSfzQcnWeZt",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=qfsrUCJQOpXRBOqTXBByCeXbUubCgl&age=3"
+}[0m
+[32m[INFO] 2019-12-12 15:31:50.596440 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_03, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 15:31:50.599440 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_01[0m
+[32m[INFO] 2019-12-12 15:31:50.599440 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 15:31:50.599440 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 15:31:50.599440 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 15:31:50.600440 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":114,
+    "male":"YPgnhwFAAoAJlncAHxPIkRdMB",
+    "name":"fbvyQYrOsHowaHAVtYevPlNdbWaIymYVILpmalLPYqOMiYDuvjlj"
+}[0m
+[32m[INFO] 2019-12-12 15:31:51.557495 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"name\": \"fbvyQYrOsHowaHAVtYevPlNdbWaIymYVILpmalLPYqOMiYDuvjlj\", \"age\": 114, \"male\": \"YPgnhwFAAoAJlncAHxPIkRdMB\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"113",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "age":114,
+        "male":"YPgnhwFAAoAJlncAHxPIkRdMB",
+        "name":"fbvyQYrOsHowaHAVtYevPlNdbWaIymYVILpmalLPYqOMiYDuvjlj"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 15:31:51.558495 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 15:31:51.561495 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_02[0m
+[32m[INFO] 2019-12-12 15:31:51.562495 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 15:31:51.562495 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 15:31:51.562495 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 15:31:51.562495 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+    "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+    "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+    "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+    "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+    "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+}[0m
+[32m[INFO] 2019-12-12 15:31:52.522550 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"\\u5bfc\\u6f14/\\u6f14\\u5458/\\u65f6\\u95f4/...\": \"\\u5bfc\\u6f14:\\u5f7c\\u5f97\\u00b7\\u6770\\u514b\\u900a Peter Jackson\\u00a0\\u00a0\\u00a0\\u4e3b\\u6f14:\\u4f0a\\u5229\\u4e9a\\u00b7\\u4f0d\\u5fb7 Elijah Wood / \\u897f\\u6069...\\u00a0/\\u00a0\\u7f8e\\u56fd \\u65b0\\u897f\\u5170\\u00a0/\\u00a0\\u5267\\u60c5 \\u52a8\\u4f5c \\u5947\\u5e7b \\u5192\\u9669\", \"\\u5f71\\u8bc4\": \"9.0 328420\\u4eba\\u8bc4\\u4ef7\", \"\\u7535\\u5f71\\u540d\\u79f0\": \"\\u6307\\u73af\\u738b2\\uff1a\\u53cc\\u5854\\u5947\\u5175\", \"\\u7535\\u5f71\\u5c01\\u9762\": \"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg\", \"\\u7535\\u5f71\\u603b\\u7ed3\": \"\\u627f\\u524d\\u542f\\u540e\\u7684\\u53f2\\u8bd7\\u7bc7\\u7ae0\", \"\\u7535\\u5f71\\u8be6\\u60c5\\u9875\": \"https://movie.douban.com/subject/1291572/\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"717",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+        "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+        "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+        "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+        "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+        "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 15:31:52.523550 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 15:31:52.526550 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_03[0m
+[32m[INFO] 2019-12-12 15:31:52.526550 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ª»ñÈ¡get½Ó¿Ú·µ»ØµÄÊı¾İ×÷Îª²ÎÊı[0m
+[32m[INFO] 2019-12-12 15:31:52.526550 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 15:31:52.527550 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 15:31:52.527550 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":null,
+    "name":null
+}[0m
+[32m[INFO] 2019-12-12 15:31:53.423601 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+None[0m
+[31m[ERROR] 2019-12-12 15:31:53.423601 - httpÇëÇóÒì³£: 
+ <class 'AssertionError'>, assert False
+ +  where False = isinstance(None, dict), <traceback object at 0x00000000054FF4C8>[0m
+[32m[INFO] 2019-12-12 15:33:49.763256 - µ±Ç°Ê±¼äÎª£º2019-12-12-15-33-49[0m
+[32m[INFO] 2019-12-12 15:33:50.454295 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-12 15:33:50.828317 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 15:33:51.834374 - ´ÓredisÊı¾İ¿â¶ÁÈ¡Êı¾İ£º('age', b'92')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 15:33:51.834374 - ´ÓredisÊı¾İ¿â¶ÁÈ¡Êı¾İ£º('name', b'fQOSLBevGNmcdxPESQyId')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 15:33:51.841375 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_01[0m
+[32m[INFO] 2019-12-12 15:33:51.841375 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÌá¹©½Ó¿ÚÒÀÀµ×Ö¶Î[0m
+[32m[INFO] 2019-12-12 15:33:51.841375 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 15:33:51.841375 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"DrxYTPXGujCXwfuMOfcDpJBjgwGgKx",
+    "b":"qhRSdcvhqUEmrgWr"
+}[0m
+[32m[INFO] 2019-12-12 15:33:51.842375 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":114,
+    "name":"exbzaUwScTbJJkbyCxkmsnrfvLSRvvYJOyfNVyXcvSpqnvkZYxJsVNVCZGKXvXMW"
+}[0m
+[32m[INFO] 2019-12-12 15:33:53.409464 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"114",
+        "name":"exbzaUwScTbJJkbyCxkmsnrfvLSRvvYJOyfNVyXcvSpqnvkZYxJsVNVCZGKXvXMW"
+    },
+    "headers":{
+        "A":"DrxYTPXGujCXwfuMOfcDpJBjgwGgKx",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"qhRSdcvhqUEmrgWr",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=exbzaUwScTbJJkbyCxkmsnrfvLSRvvYJOyfNVyXcvSpqnvkZYxJsVNVCZGKXvXMW&age=114"
+}[0m
+[32m[INFO] 2019-12-12 15:33:53.410464 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 15:33:54.411522 - ÏòredisÊı¾İ¿â´æ´¢Êı¾İ£º('age', '114')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 15:33:54.412522 - ÏòredisÊı¾İ¿â´æ´¢Êı¾İ£º('name', 'exbzaUwScTbJJkbyCxkmsnrfvLSRvvYJOyfNVyXcvSpqnvkZYxJsVNVCZGKXvXMW')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 15:33:54.412522 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 15:33:54.415522 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_02[0m
+[32m[INFO] 2019-12-12 15:33:54.415522 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 15:33:54.416522 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 15:33:54.416522 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"MqqpJqSUrAvZHNzPNVewArMRGpPW",
+    "b":"HYwYJNacixmemWAgG"
+}[0m
+[32m[INFO] 2019-12-12 15:33:54.416522 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":87,
+    "name":"UHzrGzVYfFFWYuAGBoemfnVmRCVjgBwGbt"
+}[0m
+[32m[INFO] 2019-12-12 15:33:55.443581 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"87",
+        "name":"UHzrGzVYfFFWYuAGBoemfnVmRCVjgBwGbt"
+    },
+    "headers":{
+        "A":"MqqpJqSUrAvZHNzPNVewArMRGpPW",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"HYwYJNacixmemWAgG",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=UHzrGzVYfFFWYuAGBoemfnVmRCVjgBwGbt&age=87"
+}[0m
+[32m[INFO] 2019-12-12 15:33:55.443581 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 15:33:55.446581 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_03[0m
+[32m[INFO] 2019-12-12 15:33:55.446581 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 15:33:55.447581 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 15:33:55.447581 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"eQjxNdceauzQuCkzSd",
+    "b":"jDXLikudQcdwzyRxFOJDqnTOiqfaWESvfj"
+}[0m
+[32m[INFO] 2019-12-12 15:33:55.447581 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":19,
+    "name":"JCXQkkbvsgWcjUVJzkqbJWJphylMMeezdnXcbwgSKqWVSguolLPTWHbKyweHJiJEqDZtaCcCYcDcfSXAgeWFDieWsENaYkiVq"
+}[0m
+[32m[INFO] 2019-12-12 15:33:56.344632 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"19",
+        "name":"JCXQkkbvsgWcjUVJzkqbJWJphylMMeezdnXcbwgSKqWVSguolLPTWHbKyweHJiJEqDZtaCcCYcDcfSXAgeWFDieWsENaYkiVq"
+    },
+    "headers":{
+        "A":"eQjxNdceauzQuCkzSd",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"jDXLikudQcdwzyRxFOJDqnTOiqfaWESvfj",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=JCXQkkbvsgWcjUVJzkqbJWJphylMMeezdnXcbwgSKqWVSguolLPTWHbKyweHJiJEqDZtaCcCYcDcfSXAgeWFDieWsENaYkiVq&age=19"
+}[0m
+[32m[INFO] 2019-12-12 15:33:56.344632 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_03, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 15:33:56.349632 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_01[0m
+[32m[INFO] 2019-12-12 15:33:56.349632 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 15:33:56.349632 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 15:33:56.349632 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 15:33:56.349632 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":43,
+    "male":"FnioRRsNolXPTVhiySBSEzhZodQIkLH",
+    "name":"WluzimDXjbUHiVDdJCVArkSLAYiBHavpnOyxWfOlXdUTfeGnpzjeOdxHvlGLxpPmNPRkyZpBAOlJhMQgAiRElhU"
+}[0m
+[32m[INFO] 2019-12-12 15:33:57.302687 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"name\": \"WluzimDXjbUHiVDdJCVArkSLAYiBHavpnOyxWfOlXdUTfeGnpzjeOdxHvlGLxpPmNPRkyZpBAOlJhMQgAiRElhU\", \"age\": 43, \"male\": \"FnioRRsNolXPTVhiySBSEzhZodQIkLH\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"153",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "age":43,
+        "male":"FnioRRsNolXPTVhiySBSEzhZodQIkLH",
+        "name":"WluzimDXjbUHiVDdJCVArkSLAYiBHavpnOyxWfOlXdUTfeGnpzjeOdxHvlGLxpPmNPRkyZpBAOlJhMQgAiRElhU"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 15:33:57.302687 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 15:33:57.306687 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_02[0m
+[32m[INFO] 2019-12-12 15:33:57.306687 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 15:33:57.306687 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 15:33:57.306687 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 15:33:57.306687 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+    "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+    "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+    "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+    "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+    "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+}[0m
+[32m[INFO] 2019-12-12 15:33:58.269742 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"\\u5bfc\\u6f14/\\u6f14\\u5458/\\u65f6\\u95f4/...\": \"\\u5bfc\\u6f14:\\u5f7c\\u5f97\\u00b7\\u6770\\u514b\\u900a Peter Jackson\\u00a0\\u00a0\\u00a0\\u4e3b\\u6f14:\\u4f0a\\u5229\\u4e9a\\u00b7\\u4f0d\\u5fb7 Elijah Wood / \\u897f\\u6069...\\u00a0/\\u00a0\\u7f8e\\u56fd \\u65b0\\u897f\\u5170\\u00a0/\\u00a0\\u5267\\u60c5 \\u52a8\\u4f5c \\u5947\\u5e7b \\u5192\\u9669\", \"\\u5f71\\u8bc4\": \"9.0 328420\\u4eba\\u8bc4\\u4ef7\", \"\\u7535\\u5f71\\u540d\\u79f0\": \"\\u6307\\u73af\\u738b2\\uff1a\\u53cc\\u5854\\u5947\\u5175\", \"\\u7535\\u5f71\\u5c01\\u9762\": \"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg\", \"\\u7535\\u5f71\\u603b\\u7ed3\": \"\\u627f\\u524d\\u542f\\u540e\\u7684\\u53f2\\u8bd7\\u7bc7\\u7ae0\", \"\\u7535\\u5f71\\u8be6\\u60c5\\u9875\": \"https://movie.douban.com/subject/1291572/\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"717",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+        "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+        "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+        "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+        "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+        "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 15:33:58.269742 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 15:33:58.272742 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_03[0m
+[32m[INFO] 2019-12-12 15:33:58.272742 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ª»ñÈ¡get½Ó¿Ú·µ»ØµÄÊı¾İ×÷Îª²ÎÊı[0m
+[32m[INFO] 2019-12-12 15:33:58.272742 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 15:33:58.272742 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 15:33:58.273742 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":"92",
+    "name":"fQOSLBevGNmcdxPESQyId"
+}[0m
+[32m[INFO] 2019-12-12 15:33:59.170794 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"name\": \"fQOSLBevGNmcdxPESQyId\", \"age\": \"92\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"46",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "age":"92",
+        "name":"fQOSLBevGNmcdxPESQyId"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 15:33:59.170794 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_03, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 15:35:45.375868 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-12 15:35:46.155913 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_01[0m
+[32m[INFO] 2019-12-12 15:35:46.155913 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÌá¹©½Ó¿ÚÒÀÀµ×Ö¶Î[0m
+[32m[INFO] 2019-12-12 15:35:46.155913 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 15:35:46.156913 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"fiunvlPkvmZXPgPABnugXoAoAXkuIquQoqcoHXjQEoQEhCJlLKyCDQaccikbRayXZzLHKnxqYUMpvLGkzqLOhvYHIYuay",
+    "b":"TqXugvqARBwENNmbXCSzUQiwwTSMLJMjwgHJcVxjiUoHtzKKceULbPKNxHkuOCWTBdXOgTMxDviJpNhoMFKQh"
+}[0m
+[32m[INFO] 2019-12-12 15:35:46.156913 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":10,
+    "name":"LcFYEnHDrloszOFqIOGdAuaVaRTAPnrcmsFXI"
+}[0m
+[32m[INFO] 2019-12-12 15:35:47.806007 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"10",
+        "name":"LcFYEnHDrloszOFqIOGdAuaVaRTAPnrcmsFXI"
+    },
+    "headers":{
+        "A":"fiunvlPkvmZXPgPABnugXoAoAXkuIquQoqcoHXjQEoQEhCJlLKyCDQaccikbRayXZzLHKnxqYUMpvLGkzqLOhvYHIYuay",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"TqXugvqARBwENNmbXCSzUQiwwTSMLJMjwgHJcVxjiUoHtzKKceULbPKNxHkuOCWTBdXOgTMxDviJpNhoMFKQh",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=LcFYEnHDrloszOFqIOGdAuaVaRTAPnrcmsFXI&age=10"
+}[0m
+[32m[INFO] 2019-12-12 15:35:47.807007 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 15:35:48.803064 - ÏòredisÊı¾İ¿â´æ´¢Êı¾İ£º('age', '10')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 15:35:48.804064 - ÏòredisÊı¾İ¿â´æ´¢Êı¾İ£º('name', 'LcFYEnHDrloszOFqIOGdAuaVaRTAPnrcmsFXI')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 15:35:48.804064 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 15:35:48.804064 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 15:35:48.807065 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_02[0m
+[32m[INFO] 2019-12-12 15:35:48.807065 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 15:35:48.807065 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 15:35:48.807065 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"qFxqllLNxriPNVYaHeiffTxELhKBwdxdjHorfbLUVzarTldWUQMdPiFeSfwXUGRPGmdKfpTuRwLnzvnNTdxcOIdqvGuzTIHI",
+    "b":"zkczHyybTsPjKejscPRVlkfDdfsczKemJHikAiXpuhGF"
+}[0m
+[32m[INFO] 2019-12-12 15:35:48.807065 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":119,
+    "name":"BYRUMxAgUewHUcMwgzbGbmaVEpWDjUoqOxjEzieb"
+}[0m
+[32m[INFO] 2019-12-12 15:35:49.763119 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"119",
+        "name":"BYRUMxAgUewHUcMwgzbGbmaVEpWDjUoqOxjEzieb"
+    },
+    "headers":{
+        "A":"qFxqllLNxriPNVYaHeiffTxELhKBwdxdjHorfbLUVzarTldWUQMdPiFeSfwXUGRPGmdKfpTuRwLnzvnNTdxcOIdqvGuzTIHI",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"zkczHyybTsPjKejscPRVlkfDdfsczKemJHikAiXpuhGF",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=BYRUMxAgUewHUcMwgzbGbmaVEpWDjUoqOxjEzieb&age=119"
+}[0m
+[32m[INFO] 2019-12-12 15:35:49.763119 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 15:35:49.763119 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 15:35:49.765119 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_get_03[0m
+[32m[INFO] 2019-12-12 15:35:49.765119 - ¡¾ÓÃÀıÃèÊö¡¿£ºget½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 15:35:49.766119 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/get[0m
+[32m[INFO] 2019-12-12 15:35:49.766119 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "a":"AQPFzhrbGcprgFgtmUHua",
+    "b":"ZATddtcOEFKGiTetJXNdqeeXyEFaqwHByNWuhzEksLZpbyFwdMGWfsMhudkBLSvV"
+}[0m
+[32m[INFO] 2019-12-12 15:35:49.766119 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":73,
+    "name":"sEhpRQPUZhOphqLreLj"
+}[0m
+[32m[INFO] 2019-12-12 15:35:50.770177 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{
+        "age":"73",
+        "name":"sEhpRQPUZhOphqLreLj"
+    },
+    "headers":{
+        "A":"AQPFzhrbGcprgFgtmUHua",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "B":"ZATddtcOEFKGiTetJXNdqeeXyEFaqwHByNWuhzEksLZpbyFwdMGWfsMhudkBLSvV",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/get?name=sEhpRQPUZhOphqLreLj&age=73"
+}[0m
+[32m[INFO] 2019-12-12 15:35:50.770177 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_03, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 15:35:50.770177 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_get_03, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 15:36:10.249291 - ²âÊÔ¿ªÊ¼£¬·şÎñÆ÷Á¬½ÓÖĞ...[0m
+[32m[INFO] 2019-12-12 15:36:10.701317 - redisÊı¾İ¿â³õÊ¼»¯³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 15:36:11.707374 - ´ÓredisÊı¾İ¿â¶ÁÈ¡Êı¾İ£º('age', b'10')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 15:36:11.707374 - ´ÓredisÊı¾İ¿â¶ÁÈ¡Êı¾İ£º('name', b'LcFYEnHDrloszOFqIOGdAuaVaRTAPnrcmsFXI')³É¹¦¡£[0m
+[32m[INFO] 2019-12-12 15:36:12.040393 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_01[0m
+[32m[INFO] 2019-12-12 15:36:12.040393 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 15:36:12.040393 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 15:36:12.040393 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 15:36:12.041393 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":23,
+    "male":"ZWXiOstakuXpjBKdcYBVfAYsbGdgKVPAJmv",
+    "name":"GqctMkZxOMVrmJXyFC"
+}[0m
+[32m[INFO] 2019-12-12 15:36:13.667486 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"name\": \"GqctMkZxOMVrmJXyFC\", \"age\": 23, \"male\": \"ZWXiOstakuXpjBKdcYBVfAYsbGdgKVPAJmv\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"88",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "age":23,
+        "male":"ZWXiOstakuXpjBKdcYBVfAYsbGdgKVPAJmv",
+        "name":"GqctMkZxOMVrmJXyFC"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 15:36:13.667486 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 15:36:13.667486 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_01, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 15:36:13.669487 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_02[0m
+[32m[INFO] 2019-12-12 15:36:13.669487 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ªÕıÀı[0m
+[32m[INFO] 2019-12-12 15:36:13.669487 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 15:36:13.670487 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 15:36:13.670487 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+    "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+    "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+    "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+    "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+    "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+}[0m
+[32m[INFO] 2019-12-12 15:36:14.666544 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"\\u5bfc\\u6f14/\\u6f14\\u5458/\\u65f6\\u95f4/...\": \"\\u5bfc\\u6f14:\\u5f7c\\u5f97\\u00b7\\u6770\\u514b\\u900a Peter Jackson\\u00a0\\u00a0\\u00a0\\u4e3b\\u6f14:\\u4f0a\\u5229\\u4e9a\\u00b7\\u4f0d\\u5fb7 Elijah Wood / \\u897f\\u6069...\\u00a0/\\u00a0\\u7f8e\\u56fd \\u65b0\\u897f\\u5170\\u00a0/\\u00a0\\u5267\\u60c5 \\u52a8\\u4f5c \\u5947\\u5e7b \\u5192\\u9669\", \"\\u5f71\\u8bc4\": \"9.0 328420\\u4eba\\u8bc4\\u4ef7\", \"\\u7535\\u5f71\\u540d\\u79f0\": \"\\u6307\\u73af\\u738b2\\uff1a\\u53cc\\u5854\\u5947\\u5175\", \"\\u7535\\u5f71\\u5c01\\u9762\": \"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg\", \"\\u7535\\u5f71\\u603b\\u7ed3\": \"\\u627f\\u524d\\u542f\\u540e\\u7684\\u53f2\\u8bd7\\u7bc7\\u7ae0\", \"\\u7535\\u5f71\\u8be6\\u60c5\\u9875\": \"https://movie.douban.com/subject/1291572/\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"717",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "µ¼Ñİ/ÑİÔ±/Ê±¼ä/...":"µ¼Ñİ:±ËµÃ¡¤½Ü¿ËÑ· Peter Jackson   Ö÷Ñİ:ÒÁÀûÑÇ¡¤ÎéµÂ Elijah Wood / Î÷¶÷... / ÃÀ¹ú ĞÂÎ÷À¼ / ¾çÇé ¶¯×÷ Ææ»Ã Ã°ÏÕ",
+        "Ó°ÆÀ":"9.0 328420ÈËÆÀ¼Û",
+        "µçÓ°Ãû³Æ":"Ö¸»·Íõ2£ºË«ËşÆæ±ø",
+        "µçÓ°·âÃæ":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+        "µçÓ°×Ü½á":"³ĞÇ°ÆôºóµÄÊ·Ê«ÆªÕÂ",
+        "µçÓ°ÏêÇéÒ³":"https://movie.douban.com/subject/1291572/"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 15:36:14.667544 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 15:36:14.667544 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_02, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 15:36:14.668544 - ¡¾ÓÃÀıÃû³Æ¡¿£ºapi_post_03[0m
+[32m[INFO] 2019-12-12 15:36:14.669544 - ¡¾ÓÃÀıÃèÊö¡¿£ºpost½Ó¿Ú²âÊÔÓÃÀı¡ª¡ª»ñÈ¡get½Ó¿Ú·µ»ØµÄÊı¾İ×÷Îª²ÎÊı[0m
+[32m[INFO] 2019-12-12 15:36:14.669544 - ¡¾½Ó¿ÚµØÖ·¡¿£ºhttps://httpbin.org/post[0m
+[32m[INFO] 2019-12-12 15:36:14.669544 - ¡¾½Ó¿ÚÇëÇóÍ·¡¿£º
+{
+    "Content-Type":"application/json"
+}[0m
+[32m[INFO] 2019-12-12 15:36:14.669544 - ¡¾½Ó¿ÚÇëÇóÌå¡¿£º
+{
+    "age":"10",
+    "name":"LcFYEnHDrloszOFqIOGdAuaVaRTAPnrcmsFXI"
+}[0m
+[32m[INFO] 2019-12-12 15:36:15.627599 - ¡¾½Ó¿Ú·µ»Ø½á¹ûÈçÏÂ¡¿£º
+{
+    "args":{},
+    "data":"{\"name\": \"LcFYEnHDrloszOFqIOGdAuaVaRTAPnrcmsFXI\", \"age\": \"10\"}",
+    "files":{},
+    "form":{},
+    "headers":{
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate",
+        "Content-Length":"62",
+        "Content-Type":"application/json",
+        "Host":"httpbin.org",
+        "User-Agent":"python-requests/2.18.4"
+    },
+    "json":{
+        "age":"10",
+        "name":"LcFYEnHDrloszOFqIOGdAuaVaRTAPnrcmsFXI"
+    },
+    "origin":"140.207.165.210, 140.207.165.210",
+    "url":"https://httpbin.org/post"
+}[0m
+[32m[INFO] 2019-12-12 15:36:15.627599 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_03, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
+[32m[INFO] 2019-12-12 15:36:15.627599 - >>>>>>>>>>>>>>>>>>>ÓÃÀı£ºapi_post_03, ²âÊÔÍê±Ï<<<<<<<<<<<<<<<<<<<[0m
