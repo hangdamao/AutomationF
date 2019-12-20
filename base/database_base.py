@@ -52,14 +52,13 @@ class DatabaseBase:
 
 
 if __name__ == '__main__':
-	sql = """SELECT pack_type from tsm_app_channel_pack WHERE business_id=6;"""
+	sql = """"""
 	how_many = "all"
-	with DatabaseBase(host="172.18.91.14",
-	                  user="tsm",
-	                  password="tsm_mysql",
-	                  db="zc_tsm",
-	                  port=3306,
+	with DatabaseBase(host="",
+	                  user="",
+	                  password="",
+	                  port=,
+					  db="",
 	                  charset="utf8") as d_b:
 		res = d_b.access_sql(sql, how_many)
 		logger.info(res)
-
